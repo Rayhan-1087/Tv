@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Gazi Tv",Gazi Tv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 ,Btv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.M5u5IBdwOtV3oU4PyjT3JgHaDt?pid=Api&rs=1" group-title="Btv",Btv
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 ,Independent
 http://103.109.56.116/live/skyfeed1003/index.m3u8
