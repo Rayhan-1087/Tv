@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Gazi Tv",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Gazi Tv",Gazi Tv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 ,Btv
 http://103.109.56.116/live/skyfeed1002/index.m3u8
