@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Gazi Tv",Gazi Tv
-http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.M5u5IBdwOtV3oU4PyjT3JgHaDt?pid=Api&rs=1" group-title="Btv",Btv
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.M5u5IBdwOtV3oU4PyjT3JgHaDt?pid=Api&rs=1" group-title="Btv",Btv
 http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Gazi Tv",Gazi Tv
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 ,Independent
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,Rtv
@@ -181,3 +183,77 @@ https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1,zee_bangla.
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1,gazi_tv
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1,channel_i
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1,Somoy Tv
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1,atn_news
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1,atn_bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1,rtv
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
+#EXTINF:-1,Star Jalsha
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1,bangla_vision
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1,Sa_tv
+https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+#EXTINF:-1,dbc_news
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1,news_24_hd
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1,nagorik_tv
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1,independent_tv
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1,duronto_tv
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1,star_jalsha
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:-1,zee_bangla
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1 ,colors_bangla
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:-1 ,star_plus_hd
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1,jalsha_movies
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1,zee_cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,zee_tv
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1,zee_classic
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,star_gold
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,sangeet_bangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1,nick
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 ,30
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1,abp ananda
+https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
+#EXTINF:-1,al_jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+#EXTINF:-1,bbc_world
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1,star_world
+https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1,Cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,dw
+https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8
+#EXTINF:-1,history_tv
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1,channel_24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1,maasranga
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1,deepto_tv
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1,gaan_bangla
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
