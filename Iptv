@@ -53,8 +53,6 @@ http://103.205.133.50/hls/nagorik.m3u8
 #EXTGRP:unsorted
 http://103.205.133.50/hls/mytv.m3u8
 #EXTINF:0,Mtv
-#EXTGRP:unsorted
-http://103.205.133.50/hls/chsm.m3u8
 #EXTINF:0,Mohona Tv
 #EXTGRP:unsorted
 http://103.205.133.50/hls/mohonatv.m3u8
@@ -431,6 +429,8 @@ http://103.109.56.116/live/skyfeed1029/index.m3u8
 http://103.109.56.116/live/skyfeed1030/index.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chsm.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 ,Zee Bangla
