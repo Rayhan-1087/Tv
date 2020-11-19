@@ -25,14 +25,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 #EXTINF:-13 8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:-14 9
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:-15 10
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-#EXTINF:-16 11
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
-#EXTINF:-17 12
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
 #EXTINF:-18 13
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-19 14 
@@ -41,12 +33,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-21 15
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-22 16
-ttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-#EXTINF:-23 17
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-#EXTINF:-24 18
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 #EXTINF:-25 19
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
 #EXTINF:-26 20
@@ -69,8 +55,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:-35 29
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-#EXTINF:-36 30
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-37 31
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-38 32
@@ -107,8 +91,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-54 48
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-55 49
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
 #EXTINF:-56 50
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-57 51
@@ -117,23 +99,17 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-59 53
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:-60 54
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
 #EXTINF:-61 55
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-62 56
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:-63 57
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:-64 58
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/71.ts
-#EXTINF:-65 59
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-66 60
+#EXTINF:-66 9x JLWA
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
-#EXTINF:-67 61
+#EXTINF:-67 History
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-#EXTINF:-68 62
+#EXTINF:-68 DW
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
 #EXTINF:-1 ,Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
@@ -547,6 +523,12 @@ http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups", COLORS
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-14 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:-15 10
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF:-16 11
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
