@@ -1,4 +1,144 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
+http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor HD
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
+http://otv.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Groups", EKUSHEY TV [BD]
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+#EXTINF:-1 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+#EXTINF:-1 3
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#EXTINF:-1 4
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+#EXTINF:-1 5
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1 6
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 7
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#EXTINF:-1 8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+#EXTINF:-1 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:-1 10
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF:-1 11
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+#EXTINF:-1 12
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+#EXTINF:-1 13
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF:-1 14 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1 15
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 15
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:-1 16
+ttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1 17
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
+#EXTINF:-1 18
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
+#EXTINF:-1 19
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1 20
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+#EXTINF:-1 21
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF:-1 22
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+#EXTINF:-1 23 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF:-1 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF:-1 25
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1 26
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1 27
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+#EXTINF:-1 28
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1 29
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+#EXTINF:-1 30
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#EXTINF:-1 31
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1 32
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-1 33
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:-1 34
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 35
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:-1 36
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1 37
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1 38
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 39
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 40
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+#EXTINF:-1 41
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF:-1 42
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 43
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
+#EXTINF:-1 44
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/71.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+#EXTINF:-1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
 #EXTINF:-1 ,Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 ,Duronto TV
@@ -7,82 +147,6 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor HD" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor HD
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
-http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
-http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Groups", EKUSHEY TV [BD]
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Groups", MAASRANGA TV HD [BD]
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-ttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/71.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,BTV
 #EXTGRP:unsorted
