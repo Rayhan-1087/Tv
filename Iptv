@@ -1,5 +1,5 @@
 #EXTM3U
-https://stream.rangdhanu.live/BTV/tracks-v1a1/mono.m3u8?token=0a2039b7422646b0e6c3cb66fe2d429fdf303929-faeb54aec254862063e96059969d9edd-1615823759-161581295
+https://stream.rangdhanu.live/BTV/tracks-v1a1/mono.m3u8?token=100523503ad016d7095b4793cdd6b81ed08cb8c9-dff85c20b718322dec27f0abf8cf19ca-1615824989-1615814189
 #EXTINF:-1,BTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
