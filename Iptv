@@ -4,9 +4,9 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://103.81.104.222/hls/stream17.m3u8
 #EXTINF:-17,Atn Bangla
 http://103.81.104.222/hls/stream18.m3u8
-#EXTINF:-18 ,
+#EXTINF:-18 ,Channel I
 http://103.81.104.222/hls/stream19.m3u8
-#EXTINF:-19 , Channel I Star Gold
+#EXTINF:-19 ,Star Gold
 http://103.81.104.222/hls/stream20.m3u8
 #EXTINF:-20 ,Maasranga Tv
 http://103.81.104.222/hls/stream21.m3u8
@@ -83,8 +83,6 @@ http://103.81.104.222/hls/stream16.m3u8
 #EXTINF:-16 ,Star Sports 2Hd
 http://103.81.104.222/hls/stream50.m3u8
 #EXTINF:-41 ,News 24
-http://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-42 ,Gann Bangla
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 2)",1.BTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Live" tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live
