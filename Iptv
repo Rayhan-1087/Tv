@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://103.81.104.222/hls/stream17.m3u8
-#EXTINF:-17 ,Atn Bangla
+#EXTINF:-17,Atn Bangla
 http://103.81.104.222/hls/stream18.m3u8
 #EXTINF:-18 ,Channel I
 http://103.81.104.222/hls/stream19.m3u8
