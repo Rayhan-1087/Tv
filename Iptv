@@ -1,8 +1,32 @@
 #EXTM3U
+https://stream.rangdhanu.live/BTV/tracks-v1a1/mono.m3u8?token=0a2039b7422646b0e6c3cb66fe2d429fdf303929-faeb54aec254862063e96059969d9edd-1615823759-161581295
+#EXTINF:-1,BTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 https://stream.rangdhanu.live/TSportsHD/tracks-v1a1/mono.m3u8?token=c9f694a200027b4122b83d07a8632b2d1f8565c8-fc35185c5fa64eb2d9fb3242cbb83d0d-1615820582-1615809782
 #EXTINF:-2,T Sports
+https://stream.rangdhanu.live/GaanBangla/tracks-v1a1/mono.m3u8?token=6c05c4820c19d1b7901120fe51478848fba617f0-09be9faf18a3e13c81ada67edf6a6c3c-1615822066-1615811266
+#EXTINF:-3,Gaan Bangla
+https://stream.rangdhanu.live/MyTV/tracks-v1a1/mono.m3u8?token=20752ce609fc7d247e557e7d2b1c106ce43e2afe-d4171937120f3d81fe9905803675aa96-1615823864-1615813064
+#EXTINF:-4,My Tv
+https://stream.rangdhanu.live/SonyMax/tracks-v1a1/mono.m3u8?token=0767f35039f3fdbbab29bea95418bb3b6caf5e7c-ca1a1d5eb3c0f9e749b9f4736b426c98-1615822272-1615811472
+#EXTINF:-5,Sony MAx
+https://stream.rangdhanu.live/SonyAath/tracks-v1a1/mono.m3u8?token=c6dca1d8eeb60ecee92767a628e0e26b24f87d23-546906f6045f9706228dbc179d1bf819-1615822321-1615811521
+#EXTINF:-6,Sony Aath
+https://stream.rangdhanu.live/NTV/tracks-v1a1/mono.m3u8?token=31ab1277a60a7392cd9968f489272fe651626d4d-e7149a247e6357b37533bf2779c38af1-1615823304-1615812504
+#EXTINF:-7,NTV
+https://stream.rangdhanu.live/ZeeBanglaCinema/tracks-v1a1/mono.m3u8?token=1591811c5b89c2f25fb44f23c3760a1b5ff63087-4f15f017a23ef2b3b4deb66edbfc4ee1-1615823441-1615812641
+#EXTINF:-8,Zee Bangla Cinema
+https://stream.rangdhanu.live/GaziTV/tracks-v1a1/mono.m3u8?token=a36b1ee698c22b09de504dad408df5c8c96f72f5-fd508f567fac9e26feab72cb6d4cca44-1615823581-1615812781
+#EXTINF:-9,Gazi Tv
+https://stream.rangdhanu.live/Channel9/tracks-v1a1/mono.m3u8?token=102402a8c0722795f4b7ca0b3f7956f8855e24ae-0160f68b385b1246f3ecedd5b8434b4e-1615823670-1615812870
+#EXTINF:-10,channel 9
+https://stream.rangdhanu.live/News24/tracks-v1a1/mono.m3u8?token=cb48a6eaf44a11ce51c550036aeb0406e08ba449-b10c4d3ed2ef45d1d3867b88cfb1ffe1-1615823909-1615813109
+#EXTINF:-11,News24
+https://stream.rangdhanu.live/SATV/tracks-v1a1/mono.m3u8?token=884e5e9a6d3f6ff2138cfa1918ac5196b3718bba-47e22d2a08d1a865544b3d398814db10-1615823975-1615813175
+#EXTINF:-12,Satv
+https://stream.rangdhanu.live/RuposhiBangla/tracks-v1a1/mono.m3u8?token=ed299918f2a6fd34b75cfc1ddb8907709200f6c7-58c0ec6270b622f28390535a82069471-1615824040-1615813240
+#EXTINF:-13,Ruposhi Bangla
 http://103.81.104.222/hls/stream17.m3u8
 #EXTINF:-17,Atn Bangla
 http://103.81.104.222/hls/stream18.m3u8
