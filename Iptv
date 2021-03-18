@@ -3,88 +3,6 @@
 https://tempskyview.jagobd.com:441/c5V6mmLgjH2m5c8emE66pjdExmgep47BAdKTrCJ7AgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-http://103.81.104.222/hls/stream17.m3u8
-#EXTINF:-17,Atn Bangla
-http://103.81.104.222/hls/stream18.m3u8
-#EXTINF:-18 ,Channel I
-http://103.81.104.222/hls/stream19.m3u8
-#EXTINF:-19 ,Star Gold
-http://103.81.104.222/hls/stream20.m3u8
-#EXTINF:-20 ,Maasranga Tv
-http://103.81.104.222/hls/stream21.m3u8
-#EXTINF:-21 ,somoy Tv
-http://103.81.104.222/hls/stream22.m3u8
-#EXTINF:-22 ,Channei 24
-http://103.81.104.222/hls/stream23.m3u8
-#EXTINF:-23 ,Nick
-http://103.81.104.222/hls/stream24.m3u8
-#EXTINF:-24 ,Nagorik Tv
-http://103.81.104.222/hls/stream25.m3u8
-#EXTINF:-25 ,Zee Cinema
-http://103.81.104.222/hls/stream26.m3u8
-#EXTINF:-26 ,Enterr10 Bangla
-http://103.81.104.222/hls/stream27.m3u8
-#EXTINF:-27 ,Jolsha Movies
-http://103.81.104.222/hls/stream28.m3u8
-#EXTINF:-28 ,Colors Bangla
-http://103.81.104.222/hls/stream29.m3u8
-#EXTINF:-29 ,Colors Cineplex
-http://103.81.104.222/hls/stream30.m3u8
-#EXTINF:-30 ,Zee Bangla
-http://103.81.104.222/hls/stream31.m3u8
-#EXTINF:-31 ,Star Jolsha
-http://103.81.104.222/hls/stream32.m3u8
-#EXTINF:-32 ,Sony Yuy
-http://103.81.104.222/hls/stream33.m3u8
-#EXTINF:-33 ,Islamik Tv
-http://103.81.104.222/hls/stream34.m3u8
-#EXTINF:-34 ,Ten Sports
-http://103.81.104.222/hls/stream35.m3u8
-#EXTINF:-35 ,Aljazeera
-http://103.81.104.222/hls/stream36.m3u8
-#EXTINF:-36 ,BBC World
-http://103.81.104.222/hls/stream37.m3u8
-#EXTINF:-37 ,Travelxp
-http://103.81.104.222/hls/stream38.m3u8
-#EXTINF:-38 ,Star Puls Hd
-http://103.81.104.222/hls/stream39.m3u8
-#EXTINF:-39 ,Sony Ten2
-http://103.81.104.222/hls/stream40.m3u8
-#EXTINF:-40 ,Sony Ten1
-http://103.81.104.222/hls/stream1.m3u8
-#EXTINF:-1 ,Pix
-http://103.81.104.222/hls/stream2.m3u8
-#EXTINF:-2 ,Axn
-http://103.81.104.222/hls/stream3.m3u8
-#EXTINF:-3 ,Star Movies
-http://103.81.104.222/hls/stream4.m3u8
-#EXTINF:-4 ,9xm
-http://103.81.104.222/hls/stream5.m3u8
-#EXTINF:-5 ,BBC
-http://103.81.104.222/hls/stream6.m3u8
-#EXTINF:-6 ,Animal planet
-http://103.81.104.222/hls/stream7.m3u8
-#EXTINF:-7 ,Utb action
-http://103.81.104.222/hls/stream8.m3u8
-#EXTINF:-8 ,Zoom
-http://103.81.104.222/hls/stream9.m3u8
-#EXTINF:-9 ,Discovery Hd
-http://103.81.104.222/hls/stream10.m3u8
-#EXTINF:-10 ,sony Six
-http://103.81.104.222/hls/stream11.m3u8
-#EXTINF:-11 ,Ptv Sports
-http://103.81.104.222/hls/stream12.m3u8
-#EXTINF:-12 ,Star Sports Select 1Hd
-http://103.81.104.222/hls/stream13.m3u8
-#EXTINF:-13,National Geographic
-http://103.81.104.222/hls/stream14.m3u8
-#EXTINF:-14 ,&Picuter
-http://103.81.104.222/hls/stream15.m3u8
-#EXTINF:-15 ,Star Sports 1Hd
-http://103.81.104.222/hls/stream16.m3u8
-#EXTINF:-16 ,Star Sports 2Hd
-http://103.81.104.222/hls/stream50.m3u8
-#EXTINF:-41 ,News 24
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL Live" tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-5 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Groups", EKUSHEY TV [BD]
@@ -195,6 +113,88 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://103.81.104.222/hls/stream17.m3u8
+#EXTINF:-17,Atn Bangla
+http://103.81.104.222/hls/stream18.m3u8
+#EXTINF:-18 ,Channel I
+http://103.81.104.222/hls/stream19.m3u8
+#EXTINF:-19 ,Star Gold
+http://103.81.104.222/hls/stream20.m3u8
+#EXTINF:-20 ,Maasranga Tv
+http://103.81.104.222/hls/stream21.m3u8
+#EXTINF:-21 ,somoy Tv
+http://103.81.104.222/hls/stream22.m3u8
+#EXTINF:-22 ,Channei 24
+http://103.81.104.222/hls/stream23.m3u8
+#EXTINF:-23 ,Nick
+http://103.81.104.222/hls/stream24.m3u8
+#EXTINF:-24 ,Nagorik Tv
+http://103.81.104.222/hls/stream25.m3u8
+#EXTINF:-25 ,Zee Cinema
+http://103.81.104.222/hls/stream26.m3u8
+#EXTINF:-26 ,Enterr10 Bangla
+http://103.81.104.222/hls/stream27.m3u8
+#EXTINF:-27 ,Jolsha Movies
+http://103.81.104.222/hls/stream28.m3u8
+#EXTINF:-28 ,Colors Bangla
+http://103.81.104.222/hls/stream29.m3u8
+#EXTINF:-29 ,Colors Cineplex
+http://103.81.104.222/hls/stream30.m3u8
+#EXTINF:-30 ,Zee Bangla
+http://103.81.104.222/hls/stream31.m3u8
+#EXTINF:-31 ,Star Jolsha
+http://103.81.104.222/hls/stream32.m3u8
+#EXTINF:-32 ,Sony Yuy
+http://103.81.104.222/hls/stream33.m3u8
+#EXTINF:-33 ,Islamik Tv
+http://103.81.104.222/hls/stream34.m3u8
+#EXTINF:-34 ,Ten Sports
+http://103.81.104.222/hls/stream35.m3u8
+#EXTINF:-35 ,Aljazeera
+http://103.81.104.222/hls/stream36.m3u8
+#EXTINF:-36 ,BBC World
+http://103.81.104.222/hls/stream37.m3u8
+#EXTINF:-37 ,Travelxp
+http://103.81.104.222/hls/stream38.m3u8
+#EXTINF:-38 ,Star Puls Hd
+http://103.81.104.222/hls/stream39.m3u8
+#EXTINF:-39 ,Sony Ten2
+http://103.81.104.222/hls/stream40.m3u8
+#EXTINF:-40 ,Sony Ten1
+http://103.81.104.222/hls/stream1.m3u8
+#EXTINF:-1 ,Pix
+http://103.81.104.222/hls/stream2.m3u8
+#EXTINF:-2 ,Axn
+http://103.81.104.222/hls/stream3.m3u8
+#EXTINF:-3 ,Star Movies
+http://103.81.104.222/hls/stream4.m3u8
+#EXTINF:-4 ,9xm
+http://103.81.104.222/hls/stream5.m3u8
+#EXTINF:-5 ,BBC
+http://103.81.104.222/hls/stream6.m3u8
+#EXTINF:-6 ,Animal planet
+http://103.81.104.222/hls/stream7.m3u8
+#EXTINF:-7 ,Utb action
+http://103.81.104.222/hls/stream8.m3u8
+#EXTINF:-8 ,Zoom
+http://103.81.104.222/hls/stream9.m3u8
+#EXTINF:-9 ,Discovery Hd
+http://103.81.104.222/hls/stream10.m3u8
+#EXTINF:-10 ,sony Six
+http://103.81.104.222/hls/stream11.m3u8
+#EXTINF:-11 ,Ptv Sports
+http://103.81.104.222/hls/stream12.m3u8
+#EXTINF:-12 ,Star Sports Select 1Hd
+http://103.81.104.222/hls/stream13.m3u8
+#EXTINF:-13,National Geographic
+http://103.81.104.222/hls/stream14.m3u8
+#EXTINF:-14 ,&Picuter
+http://103.81.104.222/hls/stream15.m3u8
+#EXTINF:-15 ,Star Sports 1Hd
+http://103.81.104.222/hls/stream16.m3u8
+#EXTINF:-16 ,Star Sports 2Hd
+http://103.81.104.222/hls/stream50.m3u8
+#EXTINF:-41 ,News 24
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi (Server 1)",27.Channel 9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi (Server 1)",29.Anando TV
