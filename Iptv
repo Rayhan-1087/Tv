@@ -95,6 +95,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-5 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Groups", EKUSHEY TV [BD]
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports HD
+http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:-1 ,Independent
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,Rtv
@@ -143,10 +147,6 @@ http://103.109.56.116/live/skyfeed1024/index.m3u8
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 #EXTINF:-1 ,Skynet Sports1
 http://103.109.56.116/live/skyfeed1026/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports HD
-http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",151.PTV Sports [2]
