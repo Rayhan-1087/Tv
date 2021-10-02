@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png"BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="RoMs-BDIX (সবার চলবে ন)", ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
@@ -7,13 +7,13 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="RoMs-BDIX (সবার চলবে ন)", Channel 24
 http://tv2.ebox.live:8080/live/ch24youtube.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="RoMS-BDIX (সবার চলবে ন)", Channel I
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" Channel I
 http://tv2.ebox.live:8080/live/chi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="RoMS-BDIX (সবার চলবে ন)", Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="RoMS-BDIX (সবার চলবে ন)", RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="RoMS-BDIX (সবার চলবে ন)", Boishakhi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="RoMs-BDIX (সবার চলবে ন)", News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
@@ -25,13 +25,13 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="RoMs-BDIX (সবার চলবে ন)", Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="RoMS-BDIX (সবার চলবে ন)", Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="RoMs-BDIX (সবার চলবে ন)", Star Jalsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="RoMs-BDIX (সবার চলবে ন)", Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="RoMS-BDIX ([NOT WORK ALL]", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" Zee Bangla Cinema
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="RoMs-BDIX (সবার চলবে ন)", Jalsha Movies
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
@@ -47,11 +47,11 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="RoMs-BDIX (সবার চলবে ন)", Star Gold
 http://tv2.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="RoMs-BDIX (সবার চলবে ন)", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="RoMs-BDIX (সবার চলবে ন)", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="RoMS-BDIX (সবার চলবে ন)", Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" Star Movies HD
 http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="RoMs-BDIX (সবার চলবে ন)", Sony Pix HD
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
