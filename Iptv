@@ -1,60 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,BTV
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 ,BTV
-http://103.205.133.21/hls/btv.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="BDIX Server 2",BTV World
-http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 ,Independent
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 ,Rtv
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:-1 ,Dipto Tv
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 ,Somoy Tv
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1 ,Bangla vision
-http://103.109.56.116/live/skyfeed1007/index.m3u8
-#EXTINF:-1 ,Ekattor Tv
-http://103.109.56.116/live/skyfeed1008/index.m3u8
-#EXTINF:-1 ,Sony Max
-http://103.109.56.116/live/skyfeed1009/index.m3u8 
-#EXTINF:-1 ,Star Jalsha
-http://103.109.56.116/live/skyfeed1010/index.m3u8
-#EXTINF:-1 ,Nick
-http://103.109.56.116/live/skyfeed1011/index.m3u8
-#EXTINF:-1 ,Jalsha Movies
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 ,Zee Bangla
-http://103.109.56.116/live/skyfeed1013/index.m3u8
-#EXTINF:-1 ,Sony Ten2
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 ,Sony Ten3
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 ,Sony Ten
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1 ,Sony Ten1
-http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF:-1 ,Starts Sport 1
-http://103.109.56.116/live/skyfeed1018/index.m3u8
-#EXTINF:-1 ,Sony Pix
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://103.109.56.116/live/skyfeed1020/index.m3u8
-#EXTINF:-1 ,Star Sports 2
-http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1 ,Star Sports 3
-http://103.109.56.116/live/skyfeed1022/index.m3u8
-#EXTINF:-1 ,Star Select 2
-http://103.109.56.116/live/skyfeed1023/index.m3u8
-#EXTINF:-1 ,Dsports+Psl
-http://103.109.56.116/live/skyfeed1024/index.m3u8
-#EXTINF:-1 ,History
-http://103.109.56.116/live/skyfeed1025/index.m3u8
-#EXTINF:-1 ,Skynet Sports1
-http://103.109.56.116/live/skyfeed1026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="RoMs-BDIX (সবার চলবে ন)", ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="RoMs-BDIX (সবার চলবে ন)", Bangla Vision
@@ -151,6 +97,58 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="RoMs-BDIX (সবার চলবে ন)", Star Sports Sel 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 ,Star Select 2
+#EXTINF:-1 ,BTV
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 ,Independent
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 ,Rtv
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 ,Dipto Tv
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 ,Somoy Tv
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 ,Bangla vision
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1 ,Ekattor Tv
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1 ,Sony Max
+http://103.109.56.116/live/skyfeed1009/index.m3u8 
+#EXTINF:-1 ,Star Jalsha
+http://103.109.56.116/live/skyfeed1010/index.m3u8
+#EXTINF:-1 ,Nick
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1 ,Jalsha Movies
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 ,Zee Bangla
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 ,Sony Ten2
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 ,Sony Ten3
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 ,Sony Ten
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 ,Sony Ten1
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 ,Starts Sport 1
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 ,Sony Pix
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://103.109.56.116/live/skyfeed1020/index.m3u8
+#EXTINF:-1 ,Star Sports 2
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 ,Star Sports 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 ,Star Select 2
+http://103.109.56.116/live/skyfeed1023/index.m3u8
+#EXTINF:-1 ,Dsports+Psl
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 ,History
+http://103.109.56.116/live/skyfeed1025/index.m3u8
+#EXTINF:-1 ,Skynet Sports1
+http://103.109.56.116/live/skyfeed1026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant-BDIX ([NOT WORK ALL]", Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Radiant-BDIX ([NOT WORK ALL]", ATN Bangla
