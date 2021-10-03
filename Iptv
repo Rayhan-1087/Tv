@@ -25,6 +25,8 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="RoMs-BDIX (সবার চলবে ন)", Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 tvg-logo=https://imgur.com/a/80LyTrN group-title=T Sports
+http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
 #EXTINF:-1 tvg
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-deepto/playlist.m3u8
 #EXTINF:-1 tvg
