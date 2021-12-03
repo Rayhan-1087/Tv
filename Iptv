@@ -3,7 +3,7 @@
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1, TSports
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
-#EXTINF:-1, Deepto
+#EXTINF:-1, Desh Tv
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-deepto/playlist.m3u8
 #EXTINF:-1, Somoy
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-somoy/playlist.m3u8
@@ -87,17 +87,17 @@ http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-2/pla
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-3/playlist.m3u8
 #EXTINF:-1, Espn
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyespn/playlist.m3u8
-#EXTINF:-1,Star Sports 1
+#EXTINF:-1, Star Sports 1
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-1/playlist.m3u8
 #EXTINF:-1, Starsports-1-hind
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-1-hind/playlist.m3u8
-#EXTINF:-1,Starsports Hd 2
+#EXTINF:-1, Starsports Hd 2
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportshd-2/playlist.m3u8
-#EXTINF:-1,Starsports-3
+#EXTINF:-1, Starsports-3
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-3/playlist.m3u8
 #EXTINF:-1, Starsportselect
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportselect/playlist.m3u8
-#EXTINF:-1
+#EXTINF:-1, Starsportsselect-1
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportsselect-1/playlist.m3u8
 #EXTINF:-1,Starsportsselect-1
 http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportsselect-2/playlist.m3u8
