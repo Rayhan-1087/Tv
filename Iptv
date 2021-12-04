@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png"BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1, Gazi
+http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/gazi/playlist.m3u8
 #EXTINF:-1, TSports
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
 #EXTINF:-1, Desh Tv
