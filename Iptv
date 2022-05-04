@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(Tsport Bd)
+http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-id="(Boishakhi)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-id="(Tsport)
