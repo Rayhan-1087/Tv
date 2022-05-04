@@ -59,6 +59,24 @@ http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
 http://10.16.100.245/hindi/akash8_1stop.m3u8
 #EXTINF:-1 tvg-id="(Atn Ban)
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF:-1 tvg-id="(PTV SPORTS)
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+#EXTINF:-1 tvg-id="(Sony Six)
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+#EXTINF:-1 tvg-id="(Sont Ten 1)
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF:-1 tvg-id="(Sony Ten2)
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF:-1 tvg-id="(Sony Ten 3)
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF:-1 tvg-id="(Star Spots 1)
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+#EXTINF:-1 tvg-id="(Star Sports 2)
+http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
+#EXTINF:-1 tvg-id="(Star Sports Selecthd1)
+http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+#EXTINF:-1 tvg-id="(Star Sports Selecthd2)
+http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png"BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1, Gazi
