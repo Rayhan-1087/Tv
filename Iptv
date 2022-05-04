@@ -9,6 +9,8 @@ http://10.16.100.245/hindi/Tsport$local.m3u8
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-id="(Tsport Top1)
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#EXTINF:-1 tvg-id="(Somoy Tv)
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:-1 tvg-id="(Ch24)
 http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 #EXTINF:-1 tvg-id="(Ch9)
