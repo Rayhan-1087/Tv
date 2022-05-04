@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(Gann Bangla)
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:-1 tvg-id="(Sony 8)
-http://bciptv.net:8082/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png"BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1, Gazi
