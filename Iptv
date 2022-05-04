@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(Tsport Bd)
-http://bdiptv.net:8082/tsp/index.m3u8
+
 #EXTINF:-1 tvg-id="(Boishakhi)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-id="(Tsport)
@@ -11,6 +10,12 @@ http://10.16.100.245/hindi/Tsport$local.m3u8
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-id="(Tsport Top1)
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#EXTINF:-1 tvg-id="(Tsport Bd)
+http://bdiptv.net:8082/tsp/index.m3u8
+#EXTINF:-1 tvg-id="(Gtv)
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#EXTINF:-1 tvg-id="(Gazi Tv Bd)
+http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF:-1 tvg-id="(Somoy Tv)
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:-1 tvg-id="(Ch24)
@@ -27,8 +32,6 @@ http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 http://10.16.100.245/hindi/de$htv_1st0p.m3u8
 #EXTINF:-1 tvg-id="(Ekushe Tv)
 http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-#EXTINF:-1 tvg-id="(Gtv)
-http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
 #EXTINF:-1 tvg-id="(Jamuna Tv)
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:-1 tvg-id="(Mohona Tv)
