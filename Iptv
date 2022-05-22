@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(Tsport)
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=28123650&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIyIDk6MTk6MzIgQU0maGFzaF92YWx1ZT10S1I2UDhPS1VxUS9qWUU1R2ZXczlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-id="(Boishakhi)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-id="(Tsport)
