@@ -1,4 +1,132 @@
 #EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3ww9kb94d9nv7jm"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 1" tvg-logo="" group-title="EBOX",EB_AD Sports 1
+http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 2" tvg-logo="" group-title="EBOX",EB_AD Sports 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 3" tvg-logo="" group-title="EBOX",EB_AD Sports 3
+http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 4" tvg-logo="" group-title="EBOX",EB_AD Sports 4
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Al Jazeera" tvg-logo="" group-title="EBOX",EB_Al Jazeera
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Anando TV" tvg-logo="" group-title="EBOX",EB_Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Flix HD" tvg-logo="" group-title="EBOX",EB_And Flix HD
+http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Pictures" tvg-logo="" group-title="EBOX",EB_And Pictures
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And TV HD" tvg-logo="" group-title="EBOX",EB_And TV HD
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Xplore" tvg-logo="" group-title="EBOX",EB_And Xplore
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Animal Planet HD" tvg-logo="" group-title="EBOX",EB_Animal Planet HD
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Asian TV" tvg-logo="" group-title="EBOX",EB_Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ATN Bangla" tvg-logo="" group-title="EBOX",EB_ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ATN News" tvg-logo="" group-title="EBOX",EB_ATN News
+http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bangla TV" tvg-logo="" group-title="EBOX",EB_Bangla TV
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bangla Vision" tvg-logo="" group-title="EBOX",EB_Bangla Vision
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_BBC World" tvg-logo="" group-title="EBOX",EB_BBC World
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bflix" tvg-logo="" group-title="EBOX",EB_Bflix
+http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Boishakhi TV" tvg-logo="" group-title="EBOX",EB_Boishakhi TV
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel 24" tvg-logo="" group-title="EBOX",EB_Channel 24
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel 9 HD" tvg-logo="" group-title="EBOX",EB_Channel 9 HD
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel I" tvg-logo="" group-title="EBOX",EB_Channel I
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Colors" tvg-logo="" group-title="EBOX",EB_Colors
+http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Colors Bangla HD" tvg-logo="" group-title="EBOX",EB_Colors Bangla HD
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_DBC News" tvg-logo="" group-title="EBOX",EB_DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Deepto TV" tvg-logo="" group-title="EBOX",EB_Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Desh TV" tvg-logo="" group-title="EBOX",EB_Desh TV
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Duronto TV" tvg-logo="" group-title="EBOX",EB_Duronto TV
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_DW" tvg-logo="" group-title="EBOX",EB_DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Ekattor TV" tvg-logo="" group-title="EBOX",EB_Ekattor TV
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ESPN" tvg-logo="" group-title="EBOX",EB_ESPN
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Gaan Bangla" tvg-logo="" group-title="EBOX",EB_Gaan Bangla
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Gazi TV" tvg-logo="" group-title="EBOX",EB_Gazi TV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Independent TV" tvg-logo="" group-title="EBOX",EB_Independent TV
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Jamuna TV" tvg-logo="" group-title="EBOX",EB_Jamuna TV
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Mohona TV" tvg-logo="" group-title="EBOX",EB_Mohona TV
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Movies Now" tvg-logo="" group-title="EBOX",EB_Movies Now
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_MY TV" tvg-logo="" group-title="EBOX",EB_MY TV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Nagorik TV" tvg-logo="" group-title="EBOX",EB_Nagorik TV
+http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Nat Geo Channel HD" tvg-logo="" group-title="EBOX",EB_Nat Geo Channel HD
+http://103.49.168.172:8081/ebox/in_natgeo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_News 24" tvg-logo="" group-title="EBOX",EB_News 24
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_NTV" tvg-logo="" group-title="EBOX",EB_NTV
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Romedy Now" tvg-logo="" group-title="EBOX",EB_Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_RTV" tvg-logo="" group-title="EBOX",EB_RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Ruposhi Bangla" tvg-logo="" group-title="EBOX",EB_Ruposhi Bangla
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sangeet Bangla" tvg-logo="" group-title="EBOX",EB_Sangeet Bangla
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_SATV" tvg-logo="" group-title="EBOX",EB_SATV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Somoy TV" tvg-logo="" group-title="EBOX",EB_Somoy TV
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Max HD" tvg-logo="" group-title="EBOX",EB_Sony Max HD
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Pix HD" tvg-logo="" group-title="EBOX",EB_Sony Pix HD
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Sab" tvg-logo="" group-title="EBOX",EB_Sony Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Six" tvg-logo="" group-title="EBOX",EB_Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 1 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 1 HD
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 2 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 3 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 3 HD
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony TV HD" tvg-logo="" group-title="EBOX",EB_Sony TV HD
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Bharat" tvg-logo="" group-title="EBOX",EB_Star Bharat
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Gold HD" tvg-logo="" group-title="EBOX",EB_Star Gold HD
+http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Jalsha HD" tvg-logo="" group-title="EBOX",EB_Star Jalsha HD
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_TLC HD" tvg-logo="" group-title="EBOX",EB_TLC HD
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee Bangla" tvg-logo="" group-title="EBOX",EB_Zee Bangla
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee Cinema HD" tvg-logo="" group-title="EBOX",EB_Zee Cinema HD
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee TV HD" tvg-logo="" group-title="EBOX",EB_Zee TV HD
+http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="(Boishakhi)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-id="(Tsport)
@@ -83,114 +211,6 @@ http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png"BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1, Gazi
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/gazi/playlist.m3u8
-#EXTINF:-1, TSports
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/feet-1/playlist.m3u8
-#EXTINF:-1, TSports
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
-#EXTINF:-1, Desh Tv
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-deepto/playlist.m3u8
-#EXTINF:-1, Somoy
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-somoy/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/djAX8Rc.png" DBC
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-dbc/playlist.m3u8
-#EXTINF:-1, Ekattor
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-ekattor/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/MmhxR5E.png" Channel 24
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-ch24/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/ds3aThu.jpg" Jamuna TV
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-jamuna/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/PbGS418.png" News 24
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-news24/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/p0I5dr0.png" Channel I
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-chi/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/HX8SSDA.png" Bangla Vision
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-bv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/5PsRkPd.png" ATN Bangla
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-atnbd/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/yi5p51T.png" RTV
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-rtv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/pTJSGtj.png" Boishakhi TV
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-boishakhitv/playlist.m3u8
-#EXTINF:-1, Maasranga
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/maasranga/playlist.m3u8
-#EXTINF:-1, Channel 9
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/channel9/playlist.m3u8
-#EXTINF:-1, Jolsa Movie
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-jmov/playlist.m3u8
-#EXTINF:-1, Zee Bangla
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-bangla/playlist.m3u8
-#EXTINF:-1, Colors Bangla
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/colors-bangla/playlist.m3u8
-#EXTINF:-1, Zee Cinema
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-cinema-bangla/playlist.m3u8
-#EXTINF:-1, Star jolsha
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-jalsha/playlist.m3u8
-#EXTINF:-1, Colors
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/colors/playlist.m3u8
-#EXTINF:-1, Sony Hd
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyhd/playlist.m3u8
-#EXTINF:-1, Sony Sab
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sony-sab/playlist.m3u8
-#EXTINF:-1, Star Gold
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-gold/playlist.m3u8
-#EXTINF:-1, Star Gold Select
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-gold-select/playlist.m3u8
-#EXTINF:-1, zee cinema
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-cinema/playlist.m3u8
-#EXTINF:-1, Sony Max
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sony-max/playlist.m3u8
-#EXTINF:-1, Nick
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nick/playlist.m3u8
-#EXTINF:-1, Discovery
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/discovery/playlist.m3u8
-#EXTINF:-1, Animale Planet
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/animale-planet/playlist.m3u8
-#EXTINF:-1, National Geo
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/natg/playlist.m3u8
-#EXTINF:-1, Sony Sixs
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-sixs/playlist.m3u8
-#EXTINF:-1, Sony Ten 2
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-2/playlist.m3u8
-#EXTINF:-1, Bein Sports 1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/bein-sports-1/playlist.m3u8
-#EXTINF:-1,Bein Sports 2
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/bein-sports-2/playlist.m3u8
-#EXTINF:-1, Bein Sports Eng11
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/bein-sports-eng-11/playlist.m3u8
-#EXTINF:-1, Bein Sports Fr 1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/bein-sports-fr-1/playlist.m3u8
-#EXTINF:-1 Star Sports Hd
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsporthd/playlist.m3u8
-#EXTINF:-1, Sony Six
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonysix/playlist.m3u8
-#EXTINF:-1,Sony Ten 1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-1/playlist.m3u8
-#EXTINF:-1, Sony Ten 2
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-2/playlist.m3u8
-#EXTINF:-1, Sony ten 3
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyten-3/playlist.m3u8
-#EXTINF:-1, Espn
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyespn/playlist.m3u8
-#EXTINF:-1, Star Sports 1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-1/playlist.m3u8
-#EXTINF:-1, Starsports-1-hind
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-1-hind/playlist.m3u8
-#EXTINF:-1, Starsports Hd 2
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportshd-2/playlist.m3u8
-#EXTINF:-1, Starsports-3
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsports-3/playlist.m3u8
-#EXTINF:-1, Starsportselect
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportselect/playlist.m3u8
-#EXTINF:-1, Starsportsselect-1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportsselect-1/playlist.m3u8
-#EXTINF:-1,Starsportsselect-1
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/starsportsselect-2/playlist.m3u8
-#EXTINF:-1, Starjalsha
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nb-starjalsha/playlist.m3u8
-#EXTINF:-1, Zeebangla
-http://tv.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="RoMs-BDIX (সবার চলবে ন)", ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="RoMs-BDIX (সবার চলবে ন)", Bangla Vision
@@ -215,68 +235,6 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="RoMs-BDIX (সবার চলবে ন)", Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1 tvg-logo=https://imgur.com/a/80LyTrN group-title=T Sports
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-deepto/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-somoy/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-dbc/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-ekattor/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-ch24/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-jamuna/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-news24/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-chi/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-bv/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-atnbd/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-rtv/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/maasranga/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/channel9/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-jmov/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title= Star Jalsha HD
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-jalsha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" Zee Bangla
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-bangla/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Colors Bangla HD
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/colors-bangla/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-cinema-bangla/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/colors/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sonyhd/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sony-sab/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-gold/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/star-gold-select/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/zee-cinema/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/sony-max/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nick/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/discoveryplaylist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/animale-planet/playlist.m3u8
-#EXTINF:-1 tvg
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/natg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="RoMs-BDIX (সবার চলবে ন)", Star Jalsha HD
