@@ -155,7 +155,7 @@ http://192.168.244.2:8088/74/index.m3u8
 http://192.168.244.2:8088/75/index.m3u8
 #EXTINF:-1,
 http://192.168.244.2:8088/76/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="RoMs-BDIX, Sony Max HD
+#EXTINF:-1 Sony Max HD
 http://192.168.244.2:8088/77/index.m3u8
 #EXTINF:-1,
 http://192.168.244.2:8088/78/index.m3u8
