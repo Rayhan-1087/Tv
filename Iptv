@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(Tsport)
-http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=28123650&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIyIDk6MTk6MzIgQU0maGFzaF92YWx1ZT10S1I2UDhPS1VxUS9qWUU1R2ZXczlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-id="(Boishakhi)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1, Gazi
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/gazi/playlist.m3u8
+http://192.168.244.2:8088/1/index.m3u8
 #EXTINF:-1, TSports
 http://192.168.244.2:8088/102/index.m3u8
-#EXTINF:-1, TSports
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
 #EXTINF:-1, Desh Tv
 http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-deepto/playlist.m3u8
 #EXTINF:-1, Somoy
