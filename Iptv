@@ -5,7 +5,9 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:-1, Gazi
 http://172.22.22.76/live/feed1001/index.m3u8
-#EXTINF:-1, TTTTTTTTSport
+#EXTINF:-1, TTttTTtSSPPort
+http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TTSport Hd
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSports
 http://192.168.244.2:8088/102/index.m3u8
