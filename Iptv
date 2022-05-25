@@ -5,6 +5,8 @@ http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1, Alif TSPPort
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:-1, Alif Gazi Tv
+http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1, TTttTTtSSPPort
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TTSport Hd
