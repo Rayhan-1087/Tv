@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(BTV)
+http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1 tvg-id="(BTV World)
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(Boishakhi)
@@ -43,6 +45,8 @@ http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SomoyTv
 http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Maasranga Alif
+http://tvserver.aliflailabd.com:8989//index.m3u8
 #EXTINF:-1,Asiantv Alif
 http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
 #EXTINF:-1,Channel-i
@@ -69,6 +73,8 @@ http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SonyAath Alif
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
+#EXTINF:-1,Cartoon-network Alif
+http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
 #EXTINF:-1,ZeeBangla
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star-jalsha
