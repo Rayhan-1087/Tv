@@ -43,8 +43,20 @@ http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SomoyTv
 http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Asiantv Alif
+http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
+#EXTINF:-1,Channel-i
+http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
+#EXTINF:-1,Ddepto-tv Alif
+http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:-1,Duronto-tv Alif
+http://tvserver.aliflailabd.com:8989/depto-bangla/index.m3u8
+#EXTINF:-1,Channel9 Alif
+http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
 #EXTINF:-1,GaanBangla
 http://103.60.172.106:8080/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GaanBangla Alif
+http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1,SATV
 http://103.60.172.106:8080/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ColorsBanglaHD
@@ -55,14 +67,22 @@ http://103.60.172.106:8080/Colors/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SonyAath
 http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SonyAath Alif
+http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1,ZeeBangla
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star-jalsha
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1,Zee-bangla
+http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1,Star-plus
+http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1,Star-gold
 http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
 #EXTINF:-1,Sony MAx
 http://103.60.172.106:8080/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony MAx
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1,SonySAB
 http://103.60.172.106:8080/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SonyPix
@@ -93,6 +113,8 @@ http://103.60.172.106:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,StarSportsSelect2
 http://103.60.172.106:8080/StarSportsSelect2/tracks-v1/mono.m3u8
+#EXTINF:-1,Star-sports-select1
+http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1,BeinSport1
 http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
 #EXTINF:-1,SKY-NET-1
@@ -103,3 +125,9 @@ http://tvserver.aliflailabd.com:8989/SKY-NET-2/index.m3u8
 http://tvserver.aliflailabd.com:8989/SKY-NET-6/index.m3u8
 #EXTINF:-1,SKY-NET-Hd
 http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
+#EXTINF:-1,Aljazeera-hd
+http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
+#EXTINF:-1,BBC-World
+http://tvserver.aliflailabd.com:8989/bbc-world/index.m3u8
+#EXTINF:-1,Discovery
+http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
