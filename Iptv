@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id= BTV
+#EXTINF:-1, BTV
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
-#EXTINF:-1 tvg-id= BTV World
+#EXTINF:-1, BTV World
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id= Boishakhi
+#EXTINF:-1, Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1, Alif TSPPort
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
