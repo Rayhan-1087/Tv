@@ -59,6 +59,8 @@ http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star-jalsha
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1,Star-gold
+http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
 #EXTINF:-1,Sony MAx
 http://103.60.172.106:8080/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SonySAB
