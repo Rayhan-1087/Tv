@@ -17,7 +17,7 @@ http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Atn Music
 http://103.60.172.106:8080/ATNMusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BanglaVision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png"Bangla Vision
 http://103.60.172.106:8080/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel24
 http://103.60.172.106:8080/Channel24/tracks-v1a1/mono.m3u8
