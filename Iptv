@@ -45,7 +45,7 @@ http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://tvserver.aliflailabd.com:8989//index.m3u8
-#EXTINF:-1 tvg-logo="",Asiantv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLLVt9c/Asian-tv.jpg",Asiantv
 http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
 http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
