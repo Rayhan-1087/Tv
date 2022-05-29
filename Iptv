@@ -5,9 +5,9 @@ http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6gR2WRS/t-sports.jpg",Tsport Nor
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6gR2WRS/t-sports.jpg",Tsport
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",TsportHd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
