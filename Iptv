@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="RoMs-BDIX (???? ???? ?)",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png",Star Sports 1 Hindi HD
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1, BTV World
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TTSport Hd
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg" GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Boishakhi 1
 http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
