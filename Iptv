@@ -11,7 +11,7 @@ http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Boishakhi 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi 2
 http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, AtnBangla
 http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
