@@ -61,39 +61,39 @@ http://103.60.172.106:8080/GaanBangla/tracks-v1a1/mono.m3u8
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
 http://103.60.172.106:8080/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ColorsBanglaHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBanglaHD
 http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
 http://103.60.172.106:8080/Colors/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
 http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyAath
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyAath Alif
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
-#EXTINF:-1,Cartoon-network Alif
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jvkjht/Cartoon-Network.png",Cartoon-network
 http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
-#EXTINF:-1,ZeeBangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star-jalsha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
-#EXTINF:-1,Zee-bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",Zee-bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
-#EXTINF:-1,Star-plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S098ThP/star-plus-hd-logo.jpg",Star-plus
 http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
-#EXTINF:-1,Star-gold
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1LFzCM/images.png",Star-gold
 http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
-#EXTINF:-1,Sony MAx
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://103.60.172.106:8080/SonyMaxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony MAx
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
-#EXTINF:-1,SonySAB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
 http://103.60.172.106:8080/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyPix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrxNqmc/Sony-Pix.jpg",SonyPix
 http://103.60.172.106:8080/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyWah
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDQQSGJ/SonyWah.jpg",SonyWah
 http://103.60.172.106:8080/SonyWah/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyTVHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
 http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBCEarthHD
 http://103.60.172.106:8080/BBCEarthHD/tracks-v1a1/mono.m3u8
