@@ -5,16 +5,18 @@ http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1, Alif TSPPort
-http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
-#EXTINF:-1, Alif Gazi Tv
-http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
-#EXTINF:-1, TTttTTtSSPPort
+#EXTINF:-1, TSSPPort Normal
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TTSport Hd
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gazi
 http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Alif TSPPort
+http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:-1, Alif Gazi Tv
+http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:-1, Boishakhi 1
+http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, AtnBangla
 http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Atn Music
