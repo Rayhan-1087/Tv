@@ -9,7 +9,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TTSport Hd
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Gazi
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg GTV
 http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Boishakhi 1
 http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
