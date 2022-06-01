@@ -6,7 +6,7 @@ http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/feet-1/playlist.m3u8
+https://tv.nbox.live:445/X4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/fet-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gR2WRS/t-sports.jpg",Tsport
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
