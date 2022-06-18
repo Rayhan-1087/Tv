@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLZNbCW/Bd-Sangsad-tv.jpg",Bd-Sangsad-tv
+http://192.168.92.2:8080/88/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
 http://192.168.92.2:8080/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
@@ -29,12 +31,10 @@ http://192.168.92.2:8080/13/index.m3u8
 http://192.168.92.2:8080/14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
 http://192.168.92.2:8080/15/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
 http://192.168.92.2:8080/16/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8080/17/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/18/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/19/index.m3u8
 #EXTINF:-1,
@@ -44,13 +44,9 @@ http://192.168.92.2:8080/21/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/22/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/23/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/24/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/25/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/26/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/27/index.m3u8
 #EXTINF:-1,
@@ -62,8 +58,6 @@ http://192.168.92.2:8080/30/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/31/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/32/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/33/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/34/index.m3u8
@@ -72,27 +66,17 @@ http://192.168.92.2:8080/35/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/36/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/37/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/38/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/39/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/40/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/41/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/42/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/43/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/44/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/45/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/46/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/47/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/48/index.m3u8
 #EXTINF:-1,
@@ -102,15 +86,11 @@ http://192.168.92.2:8080/50/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/51/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/52/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/53/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/54/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/55/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/56/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/57/index.m3u8
 #EXTINF:-1,
@@ -122,11 +102,7 @@ http://192.168.92.2:8080/60/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/61/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/62/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/63/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/64/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/65/index.m3u8
 #EXTINF:-1,
@@ -138,11 +114,7 @@ http://192.168.92.2:8080/68/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/69/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/70/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/71/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/72/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/73/index.m3u8
 #EXTINF:-1,
@@ -158,23 +130,8 @@ http://192.168.92.2:8080/78/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/79/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/80/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/81/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/82/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/83/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/84/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/85/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/86/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/87/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/88/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/89/index.m3u8
 #EXTINF:-1,
@@ -182,13 +139,7 @@ http://192.168.92.2:8080/90/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/91/index.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/92/index.m3u8
-#EXTINF:-1,
 http://192.168.92.2:8080/93/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/94/index.m3u8
-#EXTINF:-1,
-http://192.168.92.2:8080/95/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/96/index.m3u8
 #EXTINF:-1,
@@ -222,8 +173,6 @@ http://103.60.172.106:8080/MyTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
 http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://tvserver.aliflailabd.com:8989//index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLLVt9c/Asian-tv.jpg",Asiantv
