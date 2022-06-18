@@ -1,206 +1,204 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
+http://192.168.92.2:8080/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
+http://192.168.92.2:8080/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
+http://192.168.92.2:8080/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
+http://192.168.92.2:8080/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
+http://192.168.92.2:8080/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
+http://192.168.92.2:8080/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
+http://192.168.92.2:8080/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
+http://192.168.92.2:8080/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
+http://192.168.92.2:8080/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
+http://192.168.92.2:8080/10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
+http://192.168.92.2:8080/11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
+http://192.168.92.2:8080/12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
+http://192.168.92.2:8080/13/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
+http://192.168.92.2:8080/14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
+http://192.168.92.2:8080/15/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/102/index.m3u8
+http://192.168.92.2:8080/16/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/1/index.m3u8
+http://192.168.92.2:8080/17/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/2/index.m3u8
+http://192.168.92.2:8080/18/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/3/index.m3u8
+http://192.168.92.2:8080/19/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/4/index.m3u8
+http://192.168.92.2:8080/20/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/5/index.m3u8
+http://192.168.92.2:8080/21/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/6/index.m3u8
+http://192.168.92.2:8080/22/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/7/index.m3u8
+http://192.168.92.2:8080/23/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/8/index.m3u8
+http://192.168.92.2:8080/24/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/9/index.m3u8
+http://192.168.92.2:8080/25/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/10/index.m3u8
+http://192.168.92.2:8080/26/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/11/index.m3u8
+http://192.168.92.2:8080/27/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/12/index.m3u8
+http://192.168.92.2:8080/28/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/13/index.m3u8
+http://192.168.92.2:8080/29/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/14/index.m3u8
+http://192.168.92.2:8080/30/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/15/index.m3u8
+http://192.168.92.2:8080/31/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/16/index.m3u8
+http://192.168.92.2:8080/32/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/17/index.m3u8
+http://192.168.92.2:8080/33/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/18/index.m3u8
+http://192.168.92.2:8080/34/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/19/index.m3u8
+http://192.168.92.2:8080/35/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/20/index.m3u8
+http://192.168.92.2:8080/36/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/21/index.m3u8
+http://192.168.92.2:8080/37/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/22/index.m3u8
+http://192.168.92.2:8080/38/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/23/index.m3u8
+http://192.168.92.2:8080/39/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/24/index.m3u8
+http://192.168.92.2:8080/40/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/25/index.m3u8
+http://192.168.92.2:8080/41/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/26/index.m3u8
+http://192.168.92.2:8080/42/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/27/index.m3u8
+http://192.168.92.2:8080/43/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/28/index.m3u8
+http://192.168.92.2:8080/44/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/29/index.m3u8
+http://192.168.92.2:8080/45/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/30/index.m3u8
+http://192.168.92.2:8080/46/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/31/index.m3u8
+http://192.168.92.2:8080/47/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/32/index.m3u8
+http://192.168.92.2:8080/48/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/33/index.m3u8
+http://192.168.92.2:8080/49/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/34/index.m3u8
+http://192.168.92.2:8080/50/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/35/index.m3u8
+http://192.168.92.2:8080/51/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/36/index.m3u8
+http://192.168.92.2:8080/52/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/37/index.m3u8
+http://192.168.92.2:8080/53/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/38/index.m3u8
+http://192.168.92.2:8080/54/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/39/index.m3u8
+http://192.168.92.2:8080/55/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/40/index.m3u8
+http://192.168.92.2:8080/56/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/41/index.m3u8
+http://192.168.92.2:8080/57/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/42/index.m3u8
+http://192.168.92.2:8080/58/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/43/index.m3u8
+http://192.168.92.2:8080/59/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/44/index.m3u8
+http://192.168.92.2:8080/60/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/45/index.m3u8
+http://192.168.92.2:8080/61/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/46/index.m3u8
+http://192.168.92.2:8080/62/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/47/index.m3u8
+http://192.168.92.2:8080/63/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/48/index.m3u8
+http://192.168.92.2:8080/64/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/49/index.m3u8
+http://192.168.92.2:8080/65/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/50/index.m3u8
+http://192.168.92.2:8080/66/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/51/index.m3u8
+http://192.168.92.2:8080/67/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/52/index.m3u8
+http://192.168.92.2:8080/68/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/53/index.m3u8
+http://192.168.92.2:8080/69/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/54/index.m3u8
+http://192.168.92.2:8080/70/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/55/index.m3u8
+http://192.168.92.2:8080/71/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/56/index.m3u8
+http://192.168.92.2:8080/72/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/57/index.m3u8
+http://192.168.92.2:8080/73/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/58/index.m3u8
+http://192.168.92.2:8080/74/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/59/index.m3u8
+http://192.168.92.2:8080/75/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/60/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/61/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/62/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/63/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/64/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/65/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/66/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/67/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/68/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/69/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/70/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/71/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/72/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/73/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/74/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/75/index.m3u8
-#EXTINF:-1,
-http://192.168.244.2:8088/76/index.m3u8
+http://192.168.92.2:8080/76/index.m3u8
 #EXTINF:-1 Sony Max HD
-http://192.168.244.2:8088/77/index.m3u8
+http://192.168.92.2:8080/77/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/78/index.m3u8
+http://192.168.92.2:8080/78/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/79/index.m3u8
+http://192.168.92.2:8080/79/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/80/index.m3u8
+http://192.168.92.2:8080/80/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/81/index.m3u8
+http://192.168.92.2:8080/81/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/82/index.m3u8
+http://192.168.92.2:8080/82/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/83/index.m3u8
+http://192.168.92.2:8080/83/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/84/index.m3u8
+http://192.168.92.2:8080/84/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/85/index.m3u8
+http://192.168.92.2:8080/85/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/86/index.m3u8
+http://192.168.92.2:8080/86/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/87/index.m3u8
+http://192.168.92.2:8080/87/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/88/index.m3u8
+http://192.168.92.2:8080/88/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/89/index.m3u8
+http://192.168.92.2:8080/89/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/90/index.m3u8
+http://192.168.92.2:8080/90/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/91/index.m3u8
+http://192.168.92.2:8080/91/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/92/index.m3u8
+http://192.168.92.2:8080/92/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/93/index.m3u8
+http://192.168.92.2:8080/93/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/94/index.m3u8
+http://192.168.92.2:8080/94/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/95/index.m3u8
+http://192.168.92.2:8080/95/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/96/index.m3u8
+http://192.168.92.2:8080/96/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/97/index.m3u8
+http://192.168.92.2:8080/97/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/98/index.m3u8
+http://192.168.92.2:8080/98/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/99/index.m3u8
+http://192.168.92.2:8080/99/index.m3u8
 #EXTINF:-1,
-http://192.168.244.2:8088/100/index.m3u8
+http://192.168.92.2:8080/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
@@ -208,30 +206,12 @@ http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6gR2WRS/t-sports.jpg",Tsport
-http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
-http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
-http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi 2
 http://103.60.172.106:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
-http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYpRtcX/atn-music.png",Atn Music
 http://103.60.172.106:8080/ATNMusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
-http://103.60.172.106:8080/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
-http://103.60.172.106:8080/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
-http://103.60.172.106:8080/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
-http://103.60.172.106:8080/EkattorTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
 http://103.60.172.106:8080/EkusheyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://103.60.172.106:8080/IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4FLXJR/nagorik.png",NagorikTV
 http://103.60.172.106:8080/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzzmxqm/Mohonatv.jpg",MohonaTV
@@ -242,28 +222,17 @@ http://103.60.172.106:8080/MyTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
 http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
-http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://tvserver.aliflailabd.com:8989//index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLLVt9c/Asian-tv.jpg",Asiantv
 http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
-http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
-http://tvserver.aliflailabd.com:8989/depto-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
-http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyr3hYS/gb-tv.png",GaanBangla
 http://103.60.172.106:8080/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyr3hYS/gb-tv.png",GaanBangla
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
-http://103.60.172.106:8080/SATV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBanglaHD
 http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
@@ -298,45 +267,3 @@ http://103.60.172.106:8080/SonyPix/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/SonyWah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
 http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBCEarthHD
-http://103.60.172.106:8080/BBCEarthHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MTV
-http://103.60.172.106:8080/MTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zoom
-http://103.60.172.106:8080/Zoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1,9XM
-http://103.60.172.106:8080/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1,9XJalwa
-http://103.60.172.106:8080/9XJalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BflixMovies
-http://103.60.172.106:8080/BflixMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonySix
-http://103.60.172.106:8080/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyTen1
-http://103.60.172.106:8080/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyTen2
-http://103.60.172.106:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SonyTen3
-http://103.60.172.106:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,StarSportsSelect2
-http://103.60.172.106:8080/StarSportsSelect2/tracks-v1/mono.m3u8
-#EXTINF:-1,Star-sports-select1
-http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
-#EXTINF:-1,BeinSport1
-http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
-#EXTINF:-1,BeinSport2
-http://tvserver.aliflailabd.com:8989/beinsport2/index.m3u8
-#EXTINF:-1,SKY-NET-1
-http://tvserver.aliflailabd.com:8989/SKY-NET-1/index.m3u8
-#EXTINF:-1,SKY-NET-2
-http://tvserver.aliflailabd.com:8989/SKY-NET-2/index.m3u8
-#EXTINF:-1,SKY-NET-6
-http://tvserver.aliflailabd.com:8989/SKY-NET-6/index.m3u8
-#EXTINF:-1,SKY-NET-Hd
-http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
-#EXTINF:-1,Aljazeera-hd
-http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
-#EXTINF:-1,BBC-World
-http://tvserver.aliflailabd.com:8989/bbc-world/index.m3u8
-#EXTINF:-1,Discovery
-http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
