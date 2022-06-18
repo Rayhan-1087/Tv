@@ -43,13 +43,13 @@ http://192.168.92.2:8080/16/index.m3u8
 http://192.168.92.2:8080/17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",SATV
 http://192.168.92.2:8080/19/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
 http://192.168.92.2:8080/20/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.92.2:8080/21/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
 http://192.168.92.2:8080/22/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRMf0KF/sonysix.gif",Sony Six
 http://192.168.92.2:8080/24/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/25/index.m3u8
