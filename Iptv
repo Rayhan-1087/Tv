@@ -31,9 +31,9 @@ http://192.168.92.2:8080/13/index.m3u8
 http://192.168.92.2:8080/14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
 http://192.168.92.2:8080/15/index.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
 http://192.168.92.2:8080/16/index.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8080/17/index.m3u8
 #EXTINF:-1,
 http://192.168.92.2:8080/19/index.m3u8
