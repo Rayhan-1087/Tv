@@ -51,16 +51,20 @@ http://192.168.92.2:8080/21/index.m3u8
 http://192.168.92.2:8080/22/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRMf0KF/sonysix.gif",Sony Six
 http://192.168.92.2:8080/24/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Star Sports 1
 http://192.168.92.2:8080/25/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Star Sports 2
+http://192.168.92.2:8080/26/index.m3u8
+#EXTINF:-1,Star Sports Select 1
 http://192.168.92.2:8080/27/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Star Sports Select 2
 http://192.168.92.2:8080/28/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Zee Bangla Cinema
 http://192.168.92.2:8080/29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
 http://192.168.92.2:8080/30/index.m3u8
+#EXTINF:-1 jalsha Movies
+http://192.168.92.2:8080/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
@@ -77,7 +81,7 @@ http://192.168.92.2:8080/40/index.m3u8
 http://192.168.92.2:8080/41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6sNxv/BBC-News.jpg",BBC News
 http://192.168.92.2:8080/44/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1, Movies Now
 http://192.168.92.2:8080/45/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvC66K7/9XM-Logo.jpg",9XM
 http://192.168.92.2:8080/48/index.m3u8
@@ -117,7 +121,7 @@ http://192.168.92.2:8080/71/index.m3u8
 http://192.168.92.2:8080/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jm0QqFf/Tv.jpg",&Tv
 http://192.168.92.2:8080/74/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,Star Gold
 http://192.168.92.2:8080/75/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://192.168.92.2:8080/76/index.m3u8
@@ -125,7 +129,7 @@ http://192.168.92.2:8080/76/index.m3u8
 http://192.168.92.2:8080/77/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
 http://192.168.92.2:8080/78/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1, Cartoon Network
 http://192.168.92.2:8080/79/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYpRtcX/atn-music.png",Atn Music
 http://192.168.92.2:8080/82/index.m3u8
