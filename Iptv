@@ -63,6 +63,8 @@ http://192.168.92.2:8080/75/index.m3u8
 http://192.168.92.2:8080/76/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:8080/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
+http://192.168.92.2:8080/91/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
@@ -139,8 +141,6 @@ http://192.168.92.2:8080/82/index.m3u8
 http://192.168.92.2:8080/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
 http://192.168.92.2:8080/90/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
-http://192.168.92.2:8080/91/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3q28fS/zing.png",Zing
 http://192.168.92.2:8080/93/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcDMsVQ/sangeet-bangla.jpg",Sangeet Bangla
