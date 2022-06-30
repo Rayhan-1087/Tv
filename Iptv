@@ -63,8 +63,6 @@ http://192.168.92.2:8080/75/index.m3u8
 http://192.168.92.2:8080/76/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:8080/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
-http://192.168.92.2:8080/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
