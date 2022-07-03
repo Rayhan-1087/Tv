@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="71BANGLATV" tvg-logo="" group-title="BANGLA [BDIX]", 71BANGLATV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/151.ts
 #EXTINF:-1 tvg-id="" tvg-name="AAKAASHBANGLA" tvg-logo="" group-title="BANGLA [BDIX]", AAKAASHBANGLA
 http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/152.ts
 #EXTINF:-1 tvg-id="" tvg-name="AAMAR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", AAMAR
