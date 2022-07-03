@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLZNbCW/Bd-Sangsad-tv.jpg",Bd-Sangsad-tv
-http://192.168.92.2:8080/88/index.m3u8
+http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4440.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
-http://192.168.92.2:8080/53/index.m3u8
+http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4400.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
