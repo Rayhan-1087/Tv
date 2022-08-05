@@ -10,6 +10,8 @@ http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="MIXED [BDIX]", BT SPORT 2 FHD
 http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg" group-title="MIXED [BDIX]", T SPORTS
+http://172.20.2.1:8088/102/index.m3u8?token=e8a7e39d83ec7c4134b66b4aa5a010f856df34f4-5e5555be745c99621fe60cde3c4576db-1659705925-1659695125&remote=172.20.2.10
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg" group-title="MIXED [BDIX]", T SPORTS 2
 http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/216.ts
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg" group-title="MIXED [BDIX]", GTV
 http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/220.ts
