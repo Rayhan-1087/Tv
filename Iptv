@@ -1,1111 +1,159 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BTV CHATTOGRAM" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/eplXbBfD0FlMEiIFJ1YOZjUgGkGjNatkat.png" group-title="MIXED [BDIX]", BTV CHATTOGRAM
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4399.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/CI3p13pw1wZPwo6tDW8jL5LJZVXPGcyCv7.png" group-title="MIXED [BDIX]", BTV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4400.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/dI7IYtQR2bhIgpWCwak3oJUU6hkcbvxzgN.png" group-title="MIXED [BDIX]", BTV WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4401.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="MIXED [BDIX]", BT SPORT 1 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="MIXED [BDIX]", BT SPORT 2 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg" group-title="MIXED [BDIX]", T SPORTS
-http://172.20.2.1:8080/roarzone/102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O 01975321087
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/216.ts
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg" group-title="MIXED [BDIX]", GTV
-http://172.20.2.1:8080/roarzone/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O :Mob 01975321087
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/220.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/gxvvotQx25ThqPbpSqxB5bHo6XxhjOIOmV.png" group-title="MIXED [BDIX]", RTV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4439.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANGSAD BANGLADESH TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/SMFIrHgeHFkfMcpZNrAy9foPtsYtniTyh4.png" group-title="MIXED [BDIX]", SANGSAD BANGLADESH TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4440.ts
-#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/aKbnjWOgkkZ6gF36nUMRdaaxEthuwHE408.png" group-title="MIXED [BDIX]", SATV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4441.ts
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY NEWS" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/9emo25A1FmUNylAibEtbPbcPIERMWYiKT4.png" group-title="MIXED [BDIX]", SOMOY NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4442.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/C1qGOj4cJIValAWpJvyOzGCN6loswfPdKQ.png" group-title="MIXED [BDIX]", ANANDA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4391.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/OOiesrVnJfwJkytS4cBVHtHMYYWYt604Py.png" group-title="MIXED [BDIX]", ASIAN TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4393.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/UslzgZpDRHXgU4LAgdwbc9BZ1IkglAI4kx.png" group-title="MIXED [BDIX]", ATN NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4394.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/iKEr5sBAchLBCuagvIM9nidw4JICLJSvNz.png" group-title="MIXED [BDIX]", BANGLA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4395.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/jMdowFnHvqv0cmC53AVW1bd48kd1UxvOH3.png" group-title="MIXED [BDIX]", BANGLA VISION HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4396.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/xgCAKFdN7mFxISWPJMcFwt6kFernds00Fa.png" group-title="MIXED [BDIX]", BIJOY TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4397.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/9COWJfL9XK8gbKPQ8nfzOWzgtPm7A2EKPp.png" group-title="MIXED [BDIX]", BOISHAKHI TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4398.ts
-#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/1ahK7J5rB7xGYLZUsCUHLmHITWaIizYfN0.png" group-title="MIXED [BDIX]", DBC NEWS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4412.ts
-#EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/bfIystcqMUkq5qQH4mobFQV0vr78XIuKjo.png" group-title="MIXED [BDIX]", DESH TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4413.ts
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/6fMeu3LZMiehaxIqw4pBuKocGq4WPC8sq6.png" group-title="MIXED [BDIX]", EKATTOR HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4415.ts
-#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/Ck1GP7vzEdaxs06qsj2tsoLqeeSo2Dv4aS.png" group-title="MIXED [BDIX]", EKUSHEY TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4416.ts
-#EXTINF:-1 tvg-id="" tvg-name="GAAN BANGLA HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/s033wf4XeD2avtWQw18B97GZ8jG2h5wrCl.png" group-title="MIXED [BDIX]", GAAN BANGLA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4419.ts
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/DT2NZqv5EQY5Zorujr58rQfQQvIhtuxWIl.png" group-title="MIXED [BDIX]", INDEPENDENT TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4423.ts
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/if2j94bbhDqoxIX0r4cMQIRAfHXlYnx8d6.png" group-title="MIXED [BDIX]", JAMUNA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4424.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/DoKoGKX1LsT9GpUagnwBIuQyxYHjqf0je3.png" group-title="MIXED [BDIX]", MOHONA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4427.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV INDIA" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/mbQzUup0pUxCgFtFZM8DFBEXmv6emcTAhF.png" group-title="MIXED [BDIX]", MTV INDIA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4429.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/CtlvPqTCZ9RbWvv0823ad3iLC5L0RDOSf3.png" group-title="MIXED [BDIX]", MY TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4430.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/vrR7YBIcIQX6vovfYzazp4XJshc8QuGlME.png" group-title="MIXED [BDIX]", NAGORIK TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4431.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/yLOa8oJqOwu45E2DndmmAavRtKsMAEeMuB.png" group-title="MIXED [BDIX]", NEWS 24 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4432.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/v1g63aXw6R5UbnpDwnG1g9y1myauKeOQwH.png" group-title="MIXED [BDIX]", CHANNEL 24
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4403.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/s8mABPas3FXqMu6a5Vvs9FaK9jOwhxbQ9Y.png" group-title="MIXED [BDIX]", CHANNEL 9 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4404.ts
-#EXTINF:-1 tvg-id="" tvg-name="&PICTURES HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/CFH6o7kaUaCXAxVUeoJ8HVhkCnnAk6Ezf3.png" group-title="MIXED [BDIX]", &PICTURES HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4386.ts
-#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/uJKFrgul040AVgVyOVgWmHYsPli5GsxTlt.png" group-title="MIXED [BDIX]", &TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4387.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/FtUF3fAnpByamAZeZlRo6D49iUFnt0x5SU.png" group-title="MIXED [BDIX]", ALJAZEERA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4389.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA ARABIC" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/nfBW8OVulDsRNaLsX2Pwymphnd9bK7fqPp.png" group-title="MIXED [BDIX]", ALJAZEERA ARABIC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4390.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/DssqJfHCJKOE4Yg4JyioSBwNAfg6u4IVJF.png" group-title="MIXED [BDIX]", COLORS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4406.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/gR8jSB4wRmt2JS6bvD5MlLvfffQvBtrj90.png" group-title="MIXED [BDIX]", COLORS BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4407.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/3YkDZ2LXza8ygMSFYoC0mBipC35SAYIgMG.png" group-title="MIXED [BDIX]", COLORS BANGLA CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4408.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/yvsKfVdGJOEs1aRVmcwEYgeaJ93hhcFcB7.png" group-title="MIXED [BDIX]", COLORS INFINITY
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4409.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/PeqQFC2DYu1EMVpAWKRg89MuR7oG7TJSNu.png" group-title="MIXED [BDIX]", NHK WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4434.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/RQ2UFFDVm6AcaPPOkOmriGUrXeYUVdKMfU.png" group-title="MIXED [BDIX]", NICK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4435.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/m8wjICO11sCmDeR4RDuIDjctIJrJVdcaPf.png" group-title="MIXED [BDIX]", NICK JR.
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4436.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/ZTiFzVttAPucbdlZNShwmWvgROAVdhvb4w.png" group-title="MIXED [BDIX]", NTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4437.ts
-#EXTINF:-1 tvg-id="" tvg-name="QURAN TV" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/v5agy3mSLw0cbUuiQRwDZEgG0HzhXvMThj.png" group-title="MIXED [BDIX]", QURAN TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4438.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/RkoVurU59lSXHhz4iYAYtlM4f6YaK3KrAQ.png" group-title="MIXED [BDIX]", SONY AATH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4445.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/t1iOtSoF8QJof4Tt2bA0BfTAAPxhmC8ZGx.png" group-title="MIXED [BDIX]", SONY BBC EARTH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4446.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/jkI1d9flbppnjrqIXdMVeA2zbESqcMKtJP.png" group-title="MIXED [BDIX]", SONY HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4447.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/DN5rzKu3J5V5iWmauBAqJQK63RKKR2mQhg.png" group-title="MIXED [BDIX]", SONY MAX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4448.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/ltc8LAUl829OjhaGZ21XnQRaAuScUNP3yj.png" group-title="MIXED [BDIX]", SONY MAX 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4449.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/8fNNueGaLklynbxxjMXJqMVlpyuKtluMIv.png" group-title="MIXED [BDIX]", SONY PIX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4451.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/qagHOScQkqzp2vtZmtQMmk65zCff0j8bQd.png" group-title="MIXED [BDIX]", SONY SAB
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4452.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/nmQaTJhI7De5pSpoojTldr1T6yuSkjkNgq.png" group-title="MIXED [BDIX]", SONY SIX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4453.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/Q2Vp6F1ZEQGBd02xKBRxFcWBMrShxv4k3l.png" group-title="MIXED [BDIX]", SONY TEN 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4454.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/iVJcicq2YSwxeIcF9XIsrsbukKqOnu3eiR.png" group-title="MIXED [BDIX]", SONY TEN 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4455.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/lDMeqhOn7GOW6SDujRgZ2OBqNQ8lYcbVCx.png" group-title="MIXED [BDIX]", SONY TEN 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4456.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/aCNMhfCdvXiAqSuLXRp6vaMj98zhvjsrkc.png" group-title="MIXED [BDIX]", SONY WAH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4457.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/q8Or7GIxZjCtdY8D7Tj5zRfZqVSjXnAmF3.png" group-title="MIXED [BDIX]", ZEE ACTION
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4462.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/YQkd9wc9qEpNSMqj8l1YEtZF7ipSN3fBYe.png" group-title="MIXED [BDIX]", ZEE ANMOL
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4463.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/M5TRWFtJ7RvuiypnR5pirq1k5jLMmXT7iY.png" group-title="MIXED [BDIX]", ZEE BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4464.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/PBVKZpujYrk3VktWpRxTHtlWNFsXyQ8QBE.png" group-title="MIXED [BDIX]", ZEE CINEMA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4467.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/8U0G9CmkjHk9IKOLoBr0TmIPntm65oLXaV.png" group-title="MIXED [BDIX]", ZEE NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4468.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/jWJs40EY8K2AT2iGDgCh5LiBhUCs4hCWDg.png" group-title="MIXED [BDIX]", ZEE TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4469.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://ss.binge.buzz/uploads/tv_channel_logo/thumbs/Xaw4gG0SZGB2dnfjMZMumJ65LAeJu6FmkT.png" group-title="MIXED [BDIX]", ZING
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4470.ts
-#EXTINF:-1 tvg-id="" tvg-name="AAKAASHBANGLA" tvg-logo="" group-title="BANGLA [BDIX]", AAKAASHBANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/152.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASIANTV" tvg-logo="" group-title="BANGLA [BDIX]", ASIANTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/155.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN" tvg-logo="" group-title="BANGLA [BDIX]", ATN
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/156.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="" group-title="BANGLA [BDIX]", ATN BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/157.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="" group-title="BANGLA [BDIX]", ATN NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/158.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA TIMES" tvg-logo="" group-title="BANGLA [BDIX]", BANGLA TIMES
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/159.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION" tvg-logo="http://platinumxmedia.xyz:8080/images/ffa675bde38ebcfdb1c6a800e6fc1839.png" group-title="BANGLA [BDIX]", BANGLA VISION
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/160.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", BIJOY TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/161.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", BOISHAKHI TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/162.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", BTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/165.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV CHITTAGONG" tvg-logo="" group-title="BANGLA [BDIX]", BTV CHITTAGONG
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/163.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="" group-title="BANGLA [BDIX]", BTV WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/166.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="http://platinumxmedia.xyz:8080/images/0d8b40094b9ed5de767a5cc023c6bc1e.png" group-title="BANGLA [BDIX]", CHANNEL 24
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/167.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", CHANNEL 9
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="" group-title="BANGLA [BDIX]", CHANNEL I
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL S BD" tvg-logo="" group-title="BANGLA [BDIX]", CHANNEL S BD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="BANGLA [BDIX]", COLORS BANGLA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/172.ts
-#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="http://platinumxmedia.xyz:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLA [BDIX]", DBC NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/173.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="" group-title="BANGLA [BDIX]", DEEPTO TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/174.ts
-#EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", DESH TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/175.ts
-#EXTINF:-1 tvg-id="" tvg-name="DESHE BIDESHE TV" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="BANGLA [BDIX]", DESHE BIDESHE TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/176.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHOOM MUSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", DHOOM MUSIC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/177.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOYEL TV" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/08/Doyel-Tv-Web-Logo.png" group-title="BANGLA [BDIX]", DOYEL TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/178.ts
-#EXTINF:-1 tvg-id="" tvg-name="EKATTORTV" tvg-logo="" group-title="BANGLA [BDIX]", EKATTORTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/179.ts
-#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", EKUSHEY TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/180.ts
-#EXTINF:-1 tvg-id="" tvg-name="EPENDENT" tvg-logo="" group-title="BANGLA [BDIX]", EPENDENT
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/181.ts
-#EXTINF:-1 tvg-id="" tvg-name="GAAN BANGLA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", GAAN BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/184.ts
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://platinumxmedia.xyz:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLA [BDIX]", INDEPENDENT TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/185.ts
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIE" tvg-logo="" group-title="BANGLA [BDIX]", JALSHA MOVIE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/188.ts
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNATV" tvg-logo="" group-title="BANGLA [BDIX]", JAMUNATV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/189.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAASARANGA" tvg-logo="" group-title="BANGLA [BDIX]", MAASARANGA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="MASRANGA HD" tvg-logo="" group-title="BANGLA [BDIX]", MASRANGA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/193.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="http://platinumxmedia.xyz:8080/images/a16dbe0e7db6b894bfb419cdc6ba976c.png" group-title="BANGLA [BDIX]", MOHONA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/194.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIEBANGLATV" tvg-logo="" group-title="BANGLA [BDIX]", MOVIEBANGLATV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/195.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="BANGLA [BDIX]", MY TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/196.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="" group-title="BANGLA [BDIX]", NAGORIK TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/197.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 BD" tvg-logo="https://i.ibb.co/gtPvPzS/channels4-profile.jpg" group-title="BANGLA [BDIX]", NEWS 24 BD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/199.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", NTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/202.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="BANGLA [BDIX]", RTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/203.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUPSHI BANGLA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", RUPSHI BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/206.ts
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", SA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/207.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BANGLA [BDIX]", SANGEET BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/208.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANGSAD BANGLADESH" tvg-logo="" group-title="BANGLA [BDIX]", SANGSAD BANGLADESH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/209.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSA HD" tvg-logo="http://comet.watch:8880/images/384b62f150eae73200592ffeddef6c82.png" group-title="BANGLA [BDIX]", STAR JALSA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/213.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="http://platinumxmedia.xyz:8080/images/2192d77f0cb501537aac9687e6e58538.png" group-title="BANGLA [BDIX]", STAR JALSHA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/214.ts
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="http://platinumxmedia.xyz:8080/images/ddf283cfe159f7ac4a60198070e025c3.png" group-title="BANGLA [BDIX]", T SPORTS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/216.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="http://platinumxmedia.xyz:8080/images/e83b44817902f5a3ba20d718fe5368f0.png" group-title="BANGLA [BDIX]", ZEE BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/218.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://comet.watch:8880/images/9340bd5312030939893d101b997a0e6b.jpg" group-title="BANGLA [BDIX]", ZEE BANGLA CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/219.ts
-#EXTINF:-1 tvg-id="" tvg-name="&AMP; PICTURES HD" tvg-logo="" group-title="HINDI [BDIX]", &AMP; PICTURES HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/526.ts
-#EXTINF:-1 tvg-id="" tvg-name="&PICTURES FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/623c3e441458345d82d77700c90b99f2.png" group-title="HINDI [BDIX]", &PICTURES FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/531.ts
-#EXTINF:-1 tvg-id="" tvg-name="&PICTURES FHD 1080" tvg-logo="http://comet.watch:8880/images/43f70e65769f06ae37d18365c3985f56.jpg" group-title="HINDI [BDIX]", &PICTURES FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/532.ts
-#EXTINF:-1 tvg-id="" tvg-name="&TV FHD 1080" tvg-logo="http://comet.watch:8880/images/fe0a1bb110e7ae097d7bf9dd2760c081.png" group-title="HINDI [BDIX]", &TV FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/533.ts
-#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://platinumxmedia.xyz:8080/images/ded0f5a14a5bab68605625f2588106c1.png" group-title="HINDI [BDIX]", &TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/534.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 NEWS HD" tvg-logo="" group-title="HINDI [BDIX]", 24 NEWS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/537.ts
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="http://platinumxmedia.xyz:8080/images/caf69f5fd4e386d66afa764960d25d4a.png" group-title="HINDI [BDIX]", 9X JALWA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/543.ts
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="http://platinumxmedia.xyz:8080/images/56fcfb20f4e9de5a518cc28578b773ca.png" group-title="HINDI [BDIX]", 9XM
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/546.ts
-#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK" tvg-logo="http://comet.watch:8880/images/da166a9716d4fb8225edd0cb31abf901.png" group-title="HINDI [BDIX]", AAJ TAK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/549.ts
-#EXTINF:-1 tvg-id="" tvg-name="AAKAASH AATH" tvg-logo="https://xplanetiptv.us/Logotv/countries/india/aakash-aath-in.png" group-title="HINDI [BDIX]", AAKAASH AATH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/550.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="" group-title="HINDI [BDIX]", ATN BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/586.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="" group-title="HINDI [BDIX]", ATN NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/587.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="" group-title="HINDI [BDIX]", BOISHAKHI TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/610.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS 4K" tvg-logo="https://logo.5gtv.online:2053/logo/4klogo.png" group-title="HINDI [BDIX]", COLORS 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/632.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA FHD 1080" tvg-logo="" group-title="HINDI [BDIX]", COLORS BANGLA FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/633.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Colors-Bangla-HD-Logo.jpg" group-title="HINDI [BDIX]", COLORS BANGLA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/634.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BENGALI" tvg-logo="" group-title="HINDI [BDIX]", COLORS BENGALI
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/635.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="http://platinumxmedia.xyz:8080/images/881fb25d7a2d1f010d0d73e759f2a0e8.png" group-title="HINDI [BDIX]", COLORS CINEPLEX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/636.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="" group-title="HINDI [BDIX]", COLORS CINEPLEX BOLLYWOOD HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/637.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX FHD 1080" tvg-logo="" group-title="HINDI [BDIX]", COLORS CINEPLEX FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/638.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS EUROPE" tvg-logo="" group-title="HINDI [BDIX]", COLORS EUROPE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/639.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS FHD 1080" tvg-logo="http://comet.watch:8880/images/2bb904d2fcb3967fa897049d8f7fd3c7.png" group-title="HINDI [BDIX]", COLORS FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/640.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS GUJARATI" tvg-logo="http://platinumxmedia.xyz:8080/images/f81acfd8d0caa958395ba368d0caa430.png" group-title="HINDI [BDIX]", COLORS GUJARATI
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/641.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://comet.watch:8880/images/2bb904d2fcb3967fa897049d8f7fd3c7.png" group-title="HINDI [BDIX]", COLORS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/642.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY 4K" tvg-logo="https://logo.5gtv.online:2053/logo/4klogo.png" group-title="HINDI [BDIX]", COLORS INFINITY 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/643.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="HINDI [BDIX]", DISCOVERY WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/700.ts
-#EXTINF:-1 tvg-id="" tvg-name="ETV BANGLA NEWS" tvg-logo="" group-title="HINDI [BDIX]", ETV BANGLA NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/723.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://platinumxmedia.xyz:8080/images/77feb56a416c138bc462f8040f31b5be.png" group-title="HINDI [BDIX]", FOX LIFE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/741.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://platinumxmedia.xyz:8080/images/8be41803f7649a4e0b1551b9a0b6a6ed.png" group-title="HINDI [BDIX]", HBO
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://tvstar.live:8880/channels_icon/63220302731.png" group-title="HINDI [BDIX]", HISTORY HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1421.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV18" tvg-logo="http://platinumxmedia.xyz:8080/images/af76f351972cc43a2cd171a8894e7501.png" group-title="HINDI [BDIX]", HISTORY TV18
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/779.ts
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES  FHD 1080" tvg-logo="http://comet.watch:8880/images/334525729ad575f341666956bc7bb6a0.png" group-title="HINDI [BDIX]", JALSHA MOVIES  FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/819.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="HINDI [BDIX]", NICK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/996.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK FHD 1080" tvg-logo="http://comet.watch:8880/images/7483e8e8d8f65fc8f4211e0d4afc3e87.jpg" group-title="HINDI [BDIX]", NICK FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/997.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://platinumxmedia.xyz:8080/images/314a14de942e23d192016fb5cdfc8484.png" group-title="HINDI [BDIX]", NICKELODEON
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/998.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTV BANGLA" tvg-logo="" group-title="HINDI [BDIX]", NTV BANGLA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1002.ts
-#EXTINF:-1 tvg-id="" tvg-name="PKIND WOW CINEMA" tvg-logo="http://comet.watch:8880/images/e44e7cd3cb2ae321c2efcf82fb619036.png" group-title="HINDI [BDIX]", PKIND WOW CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1022.ts
-#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="https://xplanetiptv.us/Logotv/countries/india/pogo-in.png" group-title="HINDI [BDIX]", POGO
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1023.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="http://platinumxmedia.xyz:8080/images/113a02615c2f7facdfd925fbd333725a.png" group-title="HINDI [BDIX]", SONY AATH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1189.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ESPN IN" tvg-logo="" group-title="HINDI [BDIX]", SONY ESPN IN
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1192.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="HINDI [BDIX]", SONY HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1193.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://platinumxmedia.xyz:8080/images/5bf47896060af969595e3a785d4e6512.png" group-title="HINDI [BDIX]", SONY MAX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1194.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://platinumxmedia.xyz:8080/images/776e71c306e136fe290d00d49221a758.png" group-title="HINDI [BDIX]", SONY MAX 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1195.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX INDIA HD" tvg-logo="" group-title="HINDI [BDIX]", SONY MAX INDIA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1196.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="HINDI [BDIX]", SONY PIX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1199.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB TV INDIA HD" tvg-logo="" group-title="HINDI [BDIX]", SONY SAB TV INDIA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1202.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://comet.watch:8880/images/dd1b5ed1bd7481b013c4bc6e60bc1145.png" group-title="HINDI [BDIX]", SONY SIX HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1203.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX SD" tvg-logo="http://tvstar.live:8880/channels_icon/93736283391.png" group-title="HINDI [BDIX]", SONY SIX SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1433.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://platinumxmedia.xyz:8080/images/1dfe60147466fba4c505b1bf44bd18a1.png" group-title="HINDI [BDIX]", SONY TEN 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1204.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 FHD 1080" tvg-logo="http://comet.watch:8880/images/9a944a377bc6e51deedd6c8d6ae85092.png" group-title="HINDI [BDIX]", SONY TEN 1 FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1205.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://platinumxmedia.xyz:8080/images/e4d2aa0838986d12f78e48284cd5abda.png" group-title="HINDI [BDIX]", SONY TEN 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1206.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 FHD 1080 RS 17" tvg-logo="http://comet.watch:8880/images/f0c6548c114ca8a4d7b3f8736c75cbab.png" group-title="HINDI [BDIX]", SONY TEN 2 FHD 1080 RS 17
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1207.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://platinumxmedia.xyz:8080/images/e6ccecf90548bec03d0e42202e675fa4.png" group-title="HINDI [BDIX]", SONY TEN 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1208.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 FHD 1080" tvg-logo="http://comet.watch:8880/images/b972727f3463e735839f4c46ac209117.png" group-title="HINDI [BDIX]", SONY TEN 3 FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1209.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4 TAMIL" tvg-logo="" group-title="HINDI [BDIX]", SONY TEN 4 TAMIL
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1210.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4 TELEGU" tvg-logo="" group-title="HINDI [BDIX]", SONY TEN 4 TELEGU
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1211.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN HD" tvg-logo="http://tvstar.cc:8880/chimg/3816297499.png" group-title="HINDI [BDIX]", SONY TEN HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1434.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="" group-title="HINDI [BDIX]", SONY TV ASIA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1212.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="http://platinumxmedia.xyz:8080/images/9ea628db55961703cbfd84749bf42fea.png" group-title="HINDI [BDIX]", SONY WAH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1213.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY HINDI" tvg-logo="http://tvstar.live:8880/channels_icon/30589100131.png" group-title="HINDI [BDIX]", SONY YAY HINDI
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1435.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY!" tvg-logo="https://xplanetiptv.us/Logotv/countries/india/sony-yay-in.png" group-title="HINDI [BDIX]", SONY YAY!
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1214.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="http://platinumxmedia.xyz:8080/images/fcfe00fa38bc32240590bf806443b4ce.png" group-title="HINDI [BDIX]", STAR GOLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1221.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="http://platinumxmedia.xyz:8080/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="HINDI [BDIX]", STAR GOLD 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1222.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD 1080" tvg-logo="http://comet.watch:8880/images/538b02f5d429634864aea204f9214020.jpg" group-title="HINDI [BDIX]", STAR GOLD FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1223.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD INDIA HD" tvg-logo="" group-title="HINDI [BDIX]", STAR GOLD INDIA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1224.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="http://platinumxmedia.xyz:8080/images/3c93793828f5555a3683c0514130f847.png" group-title="HINDI [BDIX]", STAR GOLD SELECT
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1225.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-logo-300x300.jpg" group-title="HINDI [BDIX]", STAR JALSHA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1226.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA FHD 1080" tvg-logo="http://comet.watch:8880/images/384b62f150eae73200592ffeddef6c82.png" group-title="HINDI [BDIX]", STAR JALSHA FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1227.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://platinumxmedia.xyz:8080/images/9bab347e290a3643559b32674242de33.png" group-title="HINDI [BDIX]", STAR MOVIES
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1230.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="HINDI [BDIX]", STAR MOVIES SELECT HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1233.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://platinumxmedia.xyz:8080/images/6dd3856d7f365309d09c48f82e1def97.png" group-title="HINDI [BDIX]", STAR PLUS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1234.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORT 1 HINDI FHD 1080" tvg-logo="http://comet.watch:8880/images/16b0ca8a9bfb5076c55969810942c916.png" group-title="HINDI [BDIX]", STAR SPORT 1 HINDI FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1236.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 FHD 1080" tvg-logo="http://comet.watch:8880/images/16b0ca8a9bfb5076c55969810942c916.png" group-title="HINDI [BDIX]", STAR SPORTS 1 FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1237.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6d24b400d99d9374fac1dcd20e406842.png" group-title="HINDI [BDIX]", STAR SPORTS 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1238.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD 1080 H.264" tvg-logo="http://comet.watch:8880/images/1fc4a536d55fd03116dd4fc226b4f86e.jpg" group-title="HINDI [BDIX]", STAR SPORTS 1 HD 1080 H.264
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1239.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 FHD 1080" tvg-logo="" group-title="HINDI [BDIX]", STAR SPORTS 2 FHD 1080
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1240.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD 1080 H.264" tvg-logo="http://comet.watch:8880/images/2642ccc10f7089f98118ed469f96173b.jpg" group-title="HINDI [BDIX]", STAR SPORTS 2 HD 1080 H.264
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1241.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD IN" tvg-logo="" group-title="HINDI [BDIX]", STAR SPORTS 2 HD IN
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1242.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://platinumxmedia.xyz:8080/images/0f381441eecdbf9a826bd3d147e6dde1.png" group-title="HINDI [BDIX]", STAR SPORTS 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1243.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3 SD 576" tvg-logo="" group-title="HINDI [BDIX]", STAR SPORTS 3 SD 576
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1244.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SD" tvg-logo="http://tvstar.cc:8880/chimg/6327062943.png" group-title="HINDI [BDIX]", STAR SPORTS SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1436.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c94fcbb1366e0e89dd6b62368edf23a0.png" group-title="HINDI [BDIX]", STAR SPORTS SELECT 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1245.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6231d7d5331ba15d3bcf20ce38f79f55.png" group-title="HINDI [BDIX]", STAR SPORTS SELECT 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1246.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECTHD" tvg-logo="http://tvstar.cc:8880/chimg/9392010023.png" group-title="HINDI [BDIX]", STAR SPORTS SELECTHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1437.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN 1" tvg-logo="" group-title="HINDI [BDIX]", TEN 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1295.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN 2" tvg-logo="" group-title="HINDI [BDIX]", TEN 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1296.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN 3" tvg-logo="" group-title="HINDI [BDIX]", TEN 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1297.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN CRICKET" tvg-logo="http://tvstar.cc:8880/chimg/3975887790.png" group-title="HINDI [BDIX]", TEN CRICKET
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1440.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN GOLF" tvg-logo="" group-title="HINDI [BDIX]", TEN GOLF
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1298.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS IN" tvg-logo="" group-title="HINDI [BDIX]", TEN SPORTS IN
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1299.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEZ" tvg-logo="" group-title="HINDI [BDIX]", TEZ
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1300.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://platinumxmedia.xyz:8080/images/c264853c4c5e1a9a92a8cfc8ea12ed90.png" group-title="HINDI [BDIX]", ZEE ACTION
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1379.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="http://platinumxmedia.xyz:8080/images/019155fa23805d571f4a49505772d53b.png" group-title="HINDI [BDIX]", ZEE ANMOL
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1380.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="http://platinumxmedia.xyz:8080/images/f70800b817303d1146b2bab87298e35b.png" group-title="HINDI [BDIX]", ZEE ANMOL CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1381.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://platinumxmedia.xyz:8080/images/d38e59a480296d62d953b9d8a843bf67.png" group-title="HINDI [BDIX]", ZEE BANGLA CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1382.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD IN" tvg-logo="" group-title="HINDI [BDIX]", ZEE BANGLA HD IN
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1384.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://xplanetiptv.us/Logotv/countries/india/zing-in.png" group-title="HINDI [BDIX]", ZING
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1413.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZING (MUSIC)" tvg-logo="http://tvstar.live:8880/channels_icon/98023627051.png" group-title="HINDI [BDIX]", ZING (MUSIC)
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="HINDI [BDIX]", ZOOM
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1416.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN CARTOON NETWORK HD" tvg-logo="http://local.phenixiptv.com:8080/images/K_nb9pmYhmwhfzHhlsfgcrPxnenXfzVtNGcWdgkVkkclUIw3wIAjtXgrxuEjP7PiXlhaZfIv8wbx1UeUZw7EeQ.png" group-title="KIDS [BDIX]", BEIN CARTOON NETWORK HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2082.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS CARTOON NETWORK HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d6bbea85f344e5522246cef596be55be.png" group-title="KIDS [BDIX]", KIDS CARTOON NETWORK HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2172.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS NICK JR" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/2296482062648158855.png" group-title="KIDS [BDIX]", KIDS NICK JR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2135.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS OGGY 1 TV" tvg-logo="http://tvstar.live:8880/channels_icon/23175153221.png" group-title="KIDS [BDIX]", KIDS OGGY 1 TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2192.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS OGGY 2 TV" tvg-logo="http://tvstar.live:8880/channels_icon/37304934261.png" group-title="KIDS [BDIX]", KIDS OGGY 2 TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2193.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TALKING TOM 24/7" tvg-logo="" group-title="KIDS [BDIX]", KIDS TALKING TOM 24/7
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2154.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TALKING TOM AND FRIENDS 24/7" tvg-logo="" group-title="KIDS [BDIX]", KIDS TALKING TOM AND FRIENDS 24/7
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2155.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TOM & JERRY 24/7" tvg-logo="" group-title="KIDS [BDIX]", KIDS TOM & JERRY 24/7
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2160.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TOM AND JERRY 1" tvg-logo="http://tvstar.live:8880/channels_icon/13592814751.png" group-title="KIDS [BDIX]", KIDS TOM AND JERRY 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2200.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS ZOO MOO TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/beac9e2d-fbd7-4744-85b4-231a26a6d99b.png" group-title="KIDS [BDIX]", KIDS ZOO MOO TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2170.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS AL JAZEERA BALKANS" tvg-logo="http://tvstar.live:8880/channels_icon/33576211811.png" group-title="NEWS [BDIX]", NEWS AL JAZEERA BALKANS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2526.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS AL JAZEERA MUBASHER" tvg-logo="http://tvstar.live:8880/channels_icon/90538022221.png" group-title="NEWS [BDIX]", NEWS AL JAZEERA MUBASHER
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2527.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS AL MAYADEEN TV" tvg-logo="http://tvstar.cc:8880/chimg/1700271703.png" group-title="NEWS [BDIX]", NEWS AL MAYADEEN TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2528.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS AL SHARQ NEWS TV" tvg-logo="http://tvstar.cc:8880/chimg/9223684748.png" group-title="NEWS [BDIX]", NEWS AL SHARQ NEWS TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2529.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS ALJAZEERA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7433780536313438386.png" group-title="NEWS [BDIX]", NEWS ALJAZEERA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2473.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS BBC NEWS HD" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/710368935106574044.jpg" group-title="NEWS [BDIX]", NEWS BBC NEWS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2477.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS BBC WORLD HD" tvg-logo="http://tvstar.live:8880/channels_icon/49150143451.png" group-title="NEWS [BDIX]", NEWS BBC WORLD HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2536.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS CNN HD" tvg-logo="http://tvstar.live:8880/channels_icon/35460069901.png" group-title="NEWS [BDIX]", NEWS CNN HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2538.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS CNN US" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5260518300975606337.png" group-title="NEWS [BDIX]", NEWS CNN US
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2489.ts
-#EXTINF:-1 tvg-id="" tvg-name="&PICTURES HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", &PICTURES HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", &TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", 9X JALWA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1451.ts
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", 9XM
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1452.ts
-#EXTINF:-1 tvg-id="" tvg-name="AAKAASH AATH" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", AAKAASH AATH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1454.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABP ANANDA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ABP ANANDA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1458.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", AL JAZEERA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1813.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ANIMAL PLANET
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1816.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD WORLD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ANIMAL PLANET HD WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1464.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", B4U KADAK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1827.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", B4U MOVIES
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1472.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", B4U MUSIC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1473.ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", BABY TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1474.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", BBC WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1475.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", CARTOON NETWORK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1484.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", COLORS BANGLA CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1833.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", COLORS BANGLA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1493.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", COLORS CINEPLEX HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1494.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", COLORS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1496.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", COLORS INFINITY HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1497.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", DISCOVERY CHANNEL
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1837.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD WORLD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", DISCOVERY HD WORLD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1530.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", DISCOVERY KIDS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1531.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", EUROSPORT
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1551.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", FOX LIFE HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1558.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV18 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", HISTORY TV18 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1568.ts
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", JALSHA MOVIES HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1581.ts
-#EXTINF:-1 tvg-id="" tvg-name="KOLKATA TV" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", KOLKATA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1594.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", MOVIES NOW HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1613.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD+" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", MTV HD+
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1615.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", NAT GEO WILD HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1618.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", NATIONAL GEOGRAPHIC HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1619.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", NICK
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1645.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD+" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", NICK HD+
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1646.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", NICK JR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1647.ts
-#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", POGO
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1654.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAB HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1683.ts
-#EXTINF:-1 tvg-id="" tvg-name="SADHNA NEWS MP CG" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SADHNA NEWS MP CG
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1919.ts
-#EXTINF:-1 tvg-id="" tvg-name="SADHNA PLUS NEWS" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SADHNA PLUS NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1920.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAFARI TV" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAFARI TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1684.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAHANA TV" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAHANA TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1685.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAHARA SAMAY UP UKD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAHARA SAMAY UP UKD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1921.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAKSHI TV" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAKSHI TV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1686.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAMARA NEWS" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAMARA NEWS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1922.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAMAY" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SAMAY
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1923.ts
-#EXTINF:-1 tvg-id="" tvg-name="SET" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SET
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1928.ts
-#EXTINF:-1 tvg-id="" tvg-name="SET HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SET HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1693.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONIC NICKELODEON" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONIC NICKELODEON
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1700.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY AATH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1701.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY MAX 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1704.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY MAX HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1705.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY PIX HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1706.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY SAB HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1934.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY SIX HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1707.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY TEN 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1708.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY TEN 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1709.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY TEN 3 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1710.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY TEN 4
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1935.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY WAH
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1711.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY!" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", SONY YAY!
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1712.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR GOLD HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1715.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR JALSHA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1716.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR PLUS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1720.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR SPORTS 1 HD HINDI
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1722.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR SPORTS 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1723.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR SPORTS SELECT 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1724.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", STAR SPORTS SELECT 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1725.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE ACTION
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1779.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE ANMOL CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1780.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE BANGLA CINEMA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1781.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE BANGLA HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1782.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE BOLLYWOOD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1785.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE CINEMA HD
-http://172.20.2.1:8080/roarzone/76/tracks-v1a1/mono.m3u8
-
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1787.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZEE TV HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1803.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZING
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1805.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="" group-title="INDIA [TATASKY][BDIX]", ZOOM
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/1806.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghBZ1W4f9MWfLXrajOmzykh8tgQRSHWNqQTS9z9tO3a0n0.png" group-title="SPORTS [BDIX]", BEIN 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2802.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghB-342LN9efDvLVTvZSHmPjKVZbFAwBibsxa8L1Hmb-po.png" group-title="SPORTS [BDIX]", BEIN 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2803.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghBoax9UGCntomNkVu3l7_dgFHUgMH6IXEXd8i2eyzpCvk.png" group-title="SPORTS [BDIX]", BEIN 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2804.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghBBI8Ki6S9d95d4mjmeK0WcNcr7SE_HBBWE_bDwaGk87I.png" group-title="SPORTS [BDIX]", BEIN 4
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2805.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghBOpJwgNDgPLpUTkdqOgw4DHMTLIDF7zxDE5RrgR-HaAA.png" group-title="SPORTS [BDIX]", BEIN 5
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2806.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghB_q6wRTFPhEYkbXXkhWuquygJhwAbWhBJK5lRUiwJEuc.png" group-title="SPORTS [BDIX]", BEIN 6
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2807.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7" tvg-logo="s:1:/images/tvHr2Z6RCJquQQl8y6BEPN7zAXenyiRhqad29V47kFoJS2VY4JNEsfedXzTWgghBGCQwwqSWrg69YFn23i3P_Jgsaz6FfUi6sSeijR2TebE.png" group-title="SPORTS [BDIX]", BEIN 7
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2808.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN AR.BEIN BEIN SPORTS 11 HD" tvg-logo="http://tvstar.live:8880/channels_icon/16823931741.png" group-title="SPORTS [BDIX]", BEIN AR.BEIN BEIN SPORTS 11 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3119.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN AR BEIN SPORTS 1 EN  FHD" tvg-logo="http://live.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUU6ievZNZrglwR-x18w-PBkEBU3Q9N4vP5LJYmWfWwZIMkA_K1WoMVx-g39tSC8dz.png" group-title="SPORTS [BDIX]", BEIN BEIN AR BEIN SPORTS 1 EN  FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3086.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN BEIN SPORTS FRENCH 2" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN BEIN SPORTS FRENCH 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3087.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN BEIN SPORTS FRENCH 3" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN BEIN SPORTS FRENCH 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3088.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN DTX" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN DTX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2809.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN JUNIOR" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN JUNIOR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2810.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN NATURE" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN NATURE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2811.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN PREMIUM 1 HD" tvg-logo="http://tvstar.live:8880/channels_icon/49840119461.png" group-title="SPORTS [BDIX]", BEIN BEIN PREMIUM 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3120.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN PREMIUM 2 HD" tvg-logo="http://tvstar.live:8880/channels_icon/16372716111.png" group-title="SPORTS [BDIX]", BEIN BEIN PREMIUM 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3121.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 01 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 01 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2812.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 02 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 02 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2813.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 04 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 04 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2814.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 07 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 07 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2815.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 2 SD" tvg-logo="http://tvstar.live:8880/channels_icon/52684362631.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 2 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3122.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 3 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 3 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3123.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 4 SD" tvg-logo="http://tvstar.live:8880/channels_icon/28714264671.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 4 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3124.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 6 SD" tvg-logo="http://tvstar.live:8880/channels_icon/90045981471.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 6 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3125.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 7 SD" tvg-logo="http://tvstar.live:8880/channels_icon/66119205071.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 7 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3126.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORT 8 SD" tvg-logo="http://tvstar.live:8880/channels_icon/20103588961.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORT 8 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3127.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 1 4K" tvg-logo="http://live.phenixiptv.com:8080/images/VsbfhsmEnQ3OVcjOsrgrnDKJWh_UrcAQrTk1E0njLSc.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 1 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2816.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 2 4K" tvg-logo="http://live.phenixiptv.com:8080/images/VsbfhsmEnQ3OVcjOsrgrnDKJWh_UrcAQrTk1E0njLSc.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 2 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2817.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 3 4K" tvg-logo="http://live.phenixiptv.com:8080/images/VsbfhsmEnQ3OVcjOsrgrnDKJWh_UrcAQrTk1E0njLSc.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 3 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2818.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 4 4K" tvg-logo="http://live.phenixiptv.com:8080/images/VsbfhsmEnQ3OVcjOsrgrnDKJWh_UrcAQrTk1E0njLSc.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 4 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2819.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 6 4K" tvg-logo="http://live.phenixiptv.com:8080/images/VsbfhsmEnQ3OVcjOsrgrnDKJWh_UrcAQrTk1E0njLSc.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 6 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2820.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS 7 4K" tvg-logo="http://live.phenixiptv.com:8080/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2yw0LkVjbekh-GeqYFqPDOMBjzf6RzJa24WT6RW1VCrojBRMRMNGqlGfYsxMNVz7vM.png" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS 7 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2821.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS MAX 3 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS MAX 3 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2822.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS MAX 5 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS MAX 5 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2823.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN SPORTS MAX 6 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BEIN SPORTS MAX 6 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2824.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BEIN.SPORT HD.6" tvg-logo="http://tvstar.live:8880/channels_icon/29370912971.png" group-title="SPORTS [BDIX]", BEIN BEIN.SPORT HD.6
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3128.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BOOMERANG" tvg-logo="" group-title="SPORTS [BDIX]", BEIN BOOMERANG
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2825.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN DISCOVERY" tvg-logo="" group-title="SPORTS [BDIX]", BEIN DISCOVERY
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2826.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN DREAMWORKS" tvg-logo="" group-title="SPORTS [BDIX]", BEIN DREAMWORKS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2827.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX ACTION" tvg-logo="" group-title="SPORTS [BDIX]", BEIN FOX ACTION
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2828.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX CRIME" tvg-logo="" group-title="SPORTS [BDIX]", BEIN FOX CRIME
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2829.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX LIFE" tvg-logo="" group-title="SPORTS [BDIX]", BEIN FOX LIFE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2830.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX MOVIE" tvg-logo="" group-title="SPORTS [BDIX]", BEIN FOX MOVIE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2831.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX REWAYAT" tvg-logo="" group-title="SPORTS [BDIX]", BEIN FOX REWAYAT
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2832.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FR BEIN MAX 10 HD" tvg-logo="http://tvstar.live:8880/channels_icon/31254129131.png" group-title="SPORTS [BDIX]", BEIN FR BEIN MAX 10 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3129.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FR BEIN MAX 4 HD" tvg-logo="http://tvstar.live:8880/channels_icon/40074466121.png" group-title="SPORTS [BDIX]", BEIN FR BEIN MAX 4 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3130.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN GOURMET FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2833.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 1" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2834.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 2" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2835.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 3" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2836.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 4" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 4
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2837.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 5" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 5
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2838.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 6" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 6
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2839.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT FHD 7" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT FHD 7
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2840.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA 1 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT XTRA 1 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2841.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA 2 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORT XTRA 2 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2842.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 1 SD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 1 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2843.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 1 ULTRA 4K" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 1 ULTRA 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2844.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 2 SD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 2 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2845.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 2 ULTRA 4K" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 2 ULTRA 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2846.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 3 SD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 3 SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2847.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 3 ULTRA 4K" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC 3 ULTRA 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2848.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC SD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC ULTRA 4K" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS  AFC ULTRA 4K
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2850.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 1 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2851.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/27cb32fe67691f6d913545795b767a28.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2852.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDU_8IXKIPXUEkpmfQBtjWZZObXCv5WpXLc2LNbRwolI0A.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2853.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b695b42b3450ee0151334103df4ce684.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 PREMIUM HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2854.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 PREMIUM LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUrlp49KOjICEwiMth094iSvemNm1vpYkArErtWAW5kH9qKBL5jPS8vF4Vgn5-WsTf.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 PREMIUM LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2855.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 PREMIUM SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQ5URuVg6bjbxXqeitSqrEttGJtYMmvpvmbzlfGKwgonfFfvWxHxzWz9-irsbwHLCA.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 PREMIUM SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2856.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQCoQfUn9EV-GCaBEPFeK1Ux4Z5gou9j2S83HEzXG2ZqE.png" group-title="SPORTS [BDIX]", BEIN SPORTS 1 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2857.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 10 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2858.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 11 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 11 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2859.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 12 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 12 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2860.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 2 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2861.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2862.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUMcOgLZK3rVI4qU_9JNGptMEtRXmeO85ys0nenzDqr7c.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2863.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/cfb1b3ff65a25617479f16211ef143a4.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 PREMIUM HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2864.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 PREMIUM LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUhTe667gQ_GJSXWR8375BUSJhACi5rGMC0Na-4j20fzl27JSoIx7Rw-i54Iwf0WHR.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 PREMIUM LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2865.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 PREMIUM SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQ9pAsb443LcIgNWmvrendQqMr-mOoq7svf6vvGbtkQJGbMPafk4hN1fD_AW1MoCYh.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 PREMIUM SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2866.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2A8NgZTz_6Yzoeq0UynGUnafCEZYYuKVI4kKCL1jep8TfNiZ8l7RYvQbiTWzIcErI.png" group-title="SPORTS [BDIX]", BEIN SPORTS 2 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2867.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 3 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2868.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2869.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUeh1iGpmHd-aoUsY4kCUoSZ5kHzV7MNRKfc9lt-YUj20.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2870.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/70957d5563c2b7af2a9105bc1164cec3.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 PREMIUM HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2871.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 PREMIUM LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDU6royb2utmces2ZGeS91I6Bty_WrmMTPso8Nm68HuvVc7bRkmCYKA1E9ZLBhfx0Rg.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 PREMIUM LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2872.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 PREMIUM SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQcMg6wgHCgfsnjUM7UDkWnhQSPANNCtvm8sNBCAKZzhMFG5cB9BeLsNHoUhcq3tfu.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 PREMIUM SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2873.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQzSomrD7UPx2LVl898I2TmmnoLSMSNhuBfhksn9I7eMI.png" group-title="SPORTS [BDIX]", BEIN SPORTS 3 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2874.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 4 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2875.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/9209863f5031badd668c134c468bff98.png" group-title="SPORTS [BDIX]", BEIN SPORTS 4 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2876.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUyOiB8W8T_bDYztpFW_1jfiyDs9cgdt4TPbOQ6BWLvZw.png" group-title="SPORTS [BDIX]", BEIN SPORTS 4 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2877.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQsDulhEHFqpeqqlWOSt18sS2jAwW50BphJ0epKO7in4g.png" group-title="SPORTS [BDIX]", BEIN SPORTS 4 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2878.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4K AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU" group-title="SPORTS [BDIX]", BEIN SPORTS 5 4K AR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2879.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 5 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2880.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="SPORTS [BDIX]", BEIN SPORTS 5 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2881.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUTc28Xm2sLNYvx7WkXYsn3gM5ojCeblxxrXlSo3sCtRE.png" group-title="SPORTS [BDIX]", BEIN SPORTS 5 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2882.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQ8bVrjpKMobrKpbv01hrh7bv33s3klkxgUFfpgTtZkFs.png" group-title="SPORTS [BDIX]", BEIN SPORTS 5 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2883.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 6 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2884.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="SPORTS [BDIX]", BEIN SPORTS 6 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2885.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUYe7JdW0aX6mu5sI3zSr1lrCU72K7QeUMYWL9sq08duE.png" group-title="SPORTS [BDIX]", BEIN SPORTS 6 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2886.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn0kgrgxbJn_ZdGW8PqdF2SO5Mt8UXreunri99P096tw2Q.png" group-title="SPORTS [BDIX]", BEIN SPORTS 6 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2887.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 FHD VIP" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 7 FHD VIP
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2888.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="SPORTS [BDIX]", BEIN SPORTS 7 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2889.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 LOW H265" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDUkeT3yfwlU46GvJfBvVxpYsc85NZKkZFtTmJyoWwAVQI.png" group-title="SPORTS [BDIX]", BEIN SPORTS 7 LOW H265
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2890.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD 480" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn03XNAhKNNIiGpmpJhTMNYQmSAHvHqYVrbXsAhLoQSrf4UKs2a2_fMP5T2TxzYUHak.png" group-title="SPORTS [BDIX]", BEIN SPORTS 7 SD 480
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2891.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 8 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2892.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS 9 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2893.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 1 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENG 1 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2894.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 2 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENG 2 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2895.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 3 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENG 3 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2896.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENGLISH 1 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2897.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENGLISH 2 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2898.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS ENGLISH 3 HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2899.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 1 FHD" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS FRENCH 1 FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2900.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2901.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2902.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181322" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 4 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2903.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 5 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/BE_IN_SPORT_MAX_5_2017.png/revision/latest/scale-to-width-down/200?cb=20191022181625" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 5 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2904.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 6 FR" tvg-logo="https://i.pinimg.com/originals/5a/37/a6/5a37a69d8fbcfa50000f8c35103b6b0f.png" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 6 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2905.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 7 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/BE_IN_SPORT_MAX_7_2017.png/revision/latest?cb=20191022182756" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 7 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2906.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 8 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_MAX_8_2017.png/revision/latest/scale-to-width-down/200?cb=20191022183129" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 8 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2907.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 9 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/BE_IN_SPORT_MAX_9_2017.png/revision/latest/scale-to-width-down/200?cb=20191022183447" group-title="SPORTS [BDIX]", BEIN SPORTS MAX 9 FR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2908.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NBA FHD" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn3FW6rc8c_oyAdkCiS97eyGZgubOo5wRwnPT2_El7-DArgQrZrwzUbVl4YFRVkCWCI.png" group-title="SPORTS [BDIX]", BEIN SPORTS NBA FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2909.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://platinumxmedia.xyz:8080/images/63cb62a8fc2eb549e8ee6b9a7978c42e.png" group-title="SPORTS [BDIX]", BEIN SPORTS NEWS HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2910.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS SD1" tvg-logo="http://local.phenixiptv.com:8080/images/50ro6qiovzehDsRh1wQ_eXQTKeinhBUtNN5dN63tRn2Mif3Oh7QX0zXW_aYc4aDU_8IXKIPXUEkpmfQBtjWZZObXCv5WpXLc2LNbRwolI0A.png" group-title="SPORTS [BDIX]", BEIN SPORTS SD1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2911.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 1" tvg-logo="http://tvstar.live:8880/channels_icon/55418183631.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3131.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 2" tvg-logo="http://tvstar.live:8880/channels_icon/43361552201.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3132.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 3" tvg-logo="http://tvstar.live:8880/channels_icon/26293192971.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 3
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3133.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 4" tvg-logo="http://tvstar.live:8880/channels_icon/38880620801.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 4
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3134.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 5" tvg-logo="http://tvstar.live:8880/channels_icon/72939571761.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 5
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3135.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORT 6" tvg-logo="http://tvstar.live:8880/channels_icon/66772932441.png" group-title="SPORTS [BDIX]", BEIN SSC SPORT 6
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3136.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 1 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/32407510241.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 1 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3137.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 2 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/85892504761.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 2 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3138.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 3 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/18330074101.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 3 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3139.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 4 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/54817400751.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 4 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3140.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 5 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/68357486441.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 5 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3141.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 6 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/79974427671.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 6 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3142.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SSC SPORTS 7 HEVC" tvg-logo="http://tvstar.live:8880/channels_icon/36944340741.png" group-title="SPORTS [BDIX]", BEIN SSC SPORTS 7 HEVC
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3143.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN UK BEIN SPORTS EN ESPANYOL" tvg-logo="http://tvstar.live:8880/channels_icon/51990117331.png" group-title="SPORTS [BDIX]", BEIN UK BEIN SPORTS EN ESPANYOL
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3144.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN UNION BEIN SPORTS 1 PREMIUM SD" tvg-logo="http://tvstar.live:8880/channels_icon/55676974411.png" group-title="SPORTS [BDIX]", BEIN UNION BEIN SPORTS 1 PREMIUM SD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3145.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN US BEIN SPORTS CONNECT HD" tvg-logo="http://tvstar.live:8880/channels_icon/65027453421.png" group-title="SPORTS [BDIX]", BEIN US BEIN SPORTS CONNECT HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3146.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20210911120727" group-title="SPORTS [BDIX]", EUROSPORT 1 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2929.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/300?cb=20171209134527" group-title="SPORTS [BDIX]", EUROSPORT 2 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2930.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 XTRA HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="SPORTS [BDIX]", EUROSPORT 2 XTRA HD DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2931.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL IT TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Sky_Sport_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145617" group-title="SPORTS [BDIX]", SKY SPORT FOOTBALL IT TEST
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2954.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_NBA_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145924" group-title="SPORTS [BDIX]", SKY SPORT NBA IT
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2955.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO IT TEST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sky_Sport_Uno_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924145530" group-title="SPORTS [BDIX]", SKY SPORT UNO IT TEST
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2956.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="SPORTS [BDIX]", SKY SPORTS ACTION HD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2957.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="SPORTS [BDIX]", SKY SPORTS CRICKET FHD
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2958.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://tvstar.live:8880/channels_icon/37120642971.png" group-title="SPORTS [BDIX]", SONY SIX
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3149.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://tvstar.live:8880/channels_icon/37894666931.png" group-title="SPORTS [BDIX]", SONY TEN 2
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3150.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT BEIN SPORT 03 AR" tvg-logo="http://tvstar.cc:8880/chimg/6951458530.png" group-title="SPORTS [BDIX]", SPORT BEIN SPORT 03 AR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3154.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT BEIN SPORT 1" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/0cf5d124-4e11-467a-a0d7-e88fecbbc6d5.png" group-title="SPORTS [BDIX]", SPORT BEIN SPORT 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2969.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT BEIN SPORT 12 AR" tvg-logo="https://curl.pk/img/u/c9d1a3faa9d94dbe71fcf7bea735ee635702.png" group-title="SPORTS [BDIX]", SPORT BEIN SPORT 12 AR
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3155.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT BEIN SPORT EXTRA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/c9ae87bc-488d-4fce-a565-aa156befb58d.png" group-title="SPORTS [BDIX]", SPORT BEIN SPORT EXTRA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2970.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT BEIN SPORT LALIGA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/60e8d4a6-2bc5-4391-903a-fb2f16f8f9b4.jpg" group-title="SPORTS [BDIX]", SPORT BEIN SPORT LALIGA
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/2971.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LA TNT SPORTS" tvg-logo="http://tvstar.cc:8880/chimg/4462550643.png" group-title="SPORTS [BDIX]", SPORT LA TNT SPORTS
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3168.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 1 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 1 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3005.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 2 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sky_Sport_Bundesliga_2_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 2 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3006.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 3 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sky_Sport_Bundesliga_3_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 3 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3007.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 4 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sky_Sport_Bundesliga_4_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 4 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3008.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 5 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sky_Sport_Bundesliga_5_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 5 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3009.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT LIGA 6 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sky_Sport_Bundesliga_6_HD_Logo_2020.png" group-title="SPORTS [BDIX]", SPORT LIGA 6 DE
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3010.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT SONY TEN 1" tvg-logo="http://tvstar.cc:8880/chimg/6349855638.png" group-title="SPORTS [BDIX]", SPORT SONY TEN 1
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/3195.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dLZNbCW/Bd-Sangsad-tv.jpg",Bd-Sangsad-tv
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4440.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/4400.ts
+http://172.20.2.1:8080/roarzone/53/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport Hd
-http://roms-network.myworldiptv.xyz/live/roms/Roms@1087/211.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
+http://172.20.2.1:8080/roarzone/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O 01975321087
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
+http://172.20.2.1:8080/roarzone/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
-http://192.168.92.2:8080/4/index.m3u8
+http://172.20.2.1:8080/roarzone/4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/169.ts
+http://172.20.2.1:8080/roarzone/6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
-http://192.168.92.2:8080/8/index.m3u8
+http://172.20.2.1:8080/roarzone/8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=Desh Tv
+http://172.20.2.1:8080/roarzone/9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
-http://192.168.92.2:8080/10/index.m3u8
+http://172.20.2.1:8080/roarzone/10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://roms-network.myworldiptv.xyz/live/raihan/Roms@1087/211.ts
+http://172.20.2.1:8080/roarzone/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
-http://192.168.92.2:8080/51/index.m3u8
+http://172.20.2.1:8080/roarzone/51/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
-http://192.168.92.2:8080/54/index.m3u8
+http://172.20.2.1:8080/roarzone/54/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8080/55/index.m3u8
+http://172.20.2.1:8080/roarzone/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://192.168.92.2:8080/20/index.m3u8
+http://172.20.2.1:8080/roarzone/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
-http://192.168.92.2:8080/21/index.m3u8
+http://172.20.2.1:8080/roarzone/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
-http://192.168.92.2:8080/22/index.m3u8
+http://172.20.2.1:8080/roarzone/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRMf0KF/sonysix.gif",Sony Six
-http://192.168.92.2:8080/24/index.m3u8
+http://172.20.2.1:8080/roarzone/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1
-http://192.168.92.2:8080/25/index.m3u8
+http://172.20.2.1:8080/roarzone/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2
-http://192.168.92.2:8080/26/index.m3u8
+http://172.20.2.1:8080/roarzone/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1
-http://192.168.92.2:8080/27/index.m3u8
+http://172.20.2.1:8080/roarzone/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 2
-http://192.168.92.2:8080/28/index.m3u8
+http://172.20.2.1:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://192.168.92.2:8080/29/index.m3u8
+http://172.20.2.1:8080/roarzone/29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
-http://192.168.92.2:8080/30/index.m3u8
+http://172.20.2.1:8080/roarzone/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 jalsha Movies
-http://192.168.92.2:8080/31/index.m3u8
+http://172.20.2.1:8080/roarzone/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8080/34/index.m3u8
+http://172.20.2.1:8080/roarzone/34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
-http://192.168.92.2:8080/36/index.m3u8
+http://172.20.2.1:8080/roarzone/36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
-http://192.168.92.2:8080/40/index.m3u8
+http://172.20.2.1:8080/roarzone/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvC66K7/9XM-Logo.jpg",9XM
-http://192.168.92.2:8080/48/index.m3u8
+http://172.20.2.1:8080/roarzone/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
-http://192.168.92.2:8080/66/index.m3u8
+http://172.20.2.1:8080/roarzone/66/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
-http://192.168.92.2:8080/75/index.m3u8
+http://172.20.2.1:8080/roarzone/75/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:8080/76/index.m3u8
+http://172.20.2.1:8080/roarzone/76/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
-http://192.168.92.2:8080/77/index.m3u8
+http://172.20.2.1:8080/roarzone/77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
-http://192.168.92.2:8080/91/index.m3u8
+http://172.20.2.1:8080/roarzone/91/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
-http://192.168.92.2:8080/33/index.m3u8
+http://172.20.2.1:8080/roarzone/33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
-http://192.168.92.2:8080/35/index.m3u8
+http://172.20.2.1:8080/roarzone/35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
-http://192.168.92.2:8080/40/index.m3u8
+http://172.20.2.1:8080/roarzone/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
-http://192.168.92.2:8080/38/index.m3u8
+http://172.20.2.1:8080/roarzone/38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrxNqmc/Sony-Pix.jpg",SonyPix
-http://192.168.92.2:8080/41/index.m3u8
+http://172.20.2.1:8080/roarzone/41/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6sNxv/BBC-News.jpg",BBC News
-http://192.168.92.2:8080/44/index.m3u8
+http://172.20.2.1:8080/roarzone/44/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Movies Now
-http://192.168.92.2:8080/45/index.m3u8
+http://172.20.2.1:8080/roarzone/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0jRwRg/Atn-News.jpg",Atn News
-http://192.168.92.2:8080/49/index.m3u8
+http://172.20.2.1:8080/roarzone/49/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzzmxqm/Mohonatv.jpg",MohonaTV
-http://192.168.92.2:8080/50/index.m3u8
+http://172.20.2.1:8080/roarzone/50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
-http://192.168.92.2:8080/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport
-http://192.168.92.2:8080/57/index.m3u8
+http://172.20.2.1:8080/roarzone/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=Sport 18
+http://172.20.2.1:8080/roarzone/57/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
-http://192.168.92.2:8080/58/index.m3u8
+http://172.20.2.1:8080/roarzone/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4FLXJR/nagorik.png",NagorikTV
-http://192.168.92.2:8080/59/index.m3u8
+http://172.20.2.1:8080/roarzone/59/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDSYMTt/Zoom.png",Zoom
-http://192.168.92.2:8080/60/index.m3u8
+http://172.20.2.1:8080/roarzone/60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
-http://192.168.92.2:8080/61/index.m3u8
+http://172.20.2.1:8080/roarzone/61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmqWKM1/atn-islamic.png",Atn Islamic
-http://192.168.92.2:8080/63/index.m3u8
+http://172.20.2.1:8080/roarzone/63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
-http://192.168.92.2:8080/2/index.m3u8
+http://172.20.2.1:8080/roarzone/2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
-http://192.168.92.2:8080/5/index.m3u8
+http://172.20.2.1:8080/roarzone/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
-http://192.168.92.2:8080/11/index.m3u8
+http://172.20.2.1:8080/roarzone/11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://192.168.92.2:8080/12/index.m3u8
+http://172.20.2.1:8080/roarzone/12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://192.168.92.2:8080/13/index.m3u8
+http://172.20.2.1:8080/roarzone/13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
-http://192.168.92.2:8080/14/index.m3u8
+http://172.20.2.1:8080/roarzone/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
-http://192.168.92.2:8080/15/index.m3u8
+http://172.20.2.1:8080/roarzone/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
-http://192.168.92.2:8080/16/index.m3u8
+http://172.20.2.1:8080/roarzone/16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
-http://192.168.92.2:8080/7/index.m3u8
+http://172.20.2.1:8080/roarzone/7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",Movie BD
-http://192.168.92.2:8080/19/index.m3u8
+http://172.20.2.1:8080/roarzone/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
-http://192.168.92.2:8080/65/index.m3u8
+http://172.20.2.1:8080/roarzone/65/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S098ThP/star-plus-hd-logo.jpg",Star-plus
-http://192.168.92.2:8080/67/index.m3u8
+http://172.20.2.1:8080/roarzone/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
-http://192.168.92.2:8080/68/index.m3u8
+http://172.20.2.1:8080/roarzone/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
-http://192.168.92.2:8080/69/index.m3u8
+http://172.20.2.1:8080/roarzone/69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JXCB3w/Sky-Sport.png",Sky Sport Cricket
-http://192.168.92.2:8080/71/index.m3u8
+http://172.20.2.1:8080/roarzone/71/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrZ73Vh/PTV.png",PTv
-http://192.168.92.2:8080/73/index.m3u8
+http://172.20.2.1:8080/roarzone/73/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jm0QqFf/Tv.jpg",&Tv
-http://192.168.92.2:8080/74/index.m3u8
+http://172.20.2.1:8080/roarzone/74/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
-http://192.168.92.2:8080/78/index.m3u8
+http://172.20.2.1:8080/roarzone/78/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Cartoon Network
-http://192.168.92.2:8080/79/index.m3u8
+http://172.20.2.1:8080/roarzone/79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYpRtcX/atn-music.png",Atn Music
-http://192.168.92.2:8080/82/index.m3u8
+http://172.20.2.1:8080/roarzone/82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8zmm8ZD/aljazeera.png",Aljazeera
-http://192.168.92.2:8080/89/index.m3u8
+http://172.20.2.1:8080/roarzone/89/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
-http://192.168.92.2:8080/90/index.m3u8
+http://172.20.2.1:8080/roarzone/90/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3q28fS/zing.png",Zing
-http://192.168.92.2:8080/93/index.m3u8
+http://172.20.2.1:8080/roarzone/93/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcDMsVQ/sangeet-bangla.jpg",Sangeet Bangla
-http://192.168.92.2:8080/96/index.m3u8
+http://172.20.2.1:8080/roarzone/96/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Yh9nfj/bflix-movies.png",Bflix Movies
-http://192.168.92.2:8080/97/index.m3u8
+http://172.20.2.1:8080/roarzone/97/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
-http://192.168.92.2:8080/98/index.m3u8
+http://172.20.2.1:8080/roarzone/98/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
-http://192.168.92.2:8080/99/index.m3u8
+http://172.20.2.1:8080/roarzone/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
-http://192.168.92.2:8080/100/index.m3u8
+http://172.20.2.1:8080/roarzone/100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyLVXZW/MTV.png",MT.... V
+http://172.20.2.1:8080/roarzone/46/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/46/index.m3u8
