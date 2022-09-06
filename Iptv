@@ -88,7 +88,7 @@ http://172.20.2.1:8080/roarzone/50/tracks-v1a1/mono.m3u8
 http://172.20.2.1:8080/roarzone/3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=Sport 18
 http://172.20.2.1:8080/roarzone/57/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1,GannBangla
 http://172.20.2.1:8080/roarzone/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4FLXJR/nagorik.png",NagorikTV
 http://172.20.2.1:8080/roarzone/59/tracks-v1a1/mono.m3u8
