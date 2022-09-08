@@ -22,11 +22,11 @@ http://172.20.2.1:8080/roarzone/10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://172.20.2.1:8080/roarzone/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
-http://172.20.2.1:8080/roarzone/51/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Maasranga/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
-http://172.20.2.1:8080/roarzone/54/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/NTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://172.20.2.1:8080/roarzone/55/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Nick/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
 http://172.20.2.1:8080/roarzone/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
@@ -52,13 +52,13 @@ http://192.168.92.2:8080/Jalsha-Movies/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://192.168.92.2:8080/ZeeBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
-http://172.20.2.1:8080/roarzone/36/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SonySAB/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
 http://172.20.2.1:8080/roarzone/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvC66K7/9XM-Logo.jpg",9XM
 http://172.20.2.1:8080/roarzone/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
-http://172.20.2.1:8080/roarzone/66/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/ColorsBangla/mpegts
 #EXTINF:-1,Star Gold
 http://192.168.92.2:8080/StarGold/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
@@ -70,11 +70,11 @@ http://172.20.2.1:8080/roarzone/91/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/SonyAath/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
-http://172.20.2.1:8080/roarzone/35/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/National-geographic/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
 http://172.20.2.1:8080/roarzone/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
-http://172.20.2.1:8080/roarzone/38/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SonyTVHD/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrxNqmc/Sony-Pix.jpg",SonyPix
 http://172.20.2.1:8080/roarzone/41/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6sNxv/BBC-News.jpg",BBC News
@@ -82,9 +82,9 @@ http://172.20.2.1:8080/roarzone/44/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Movies Now
 http://172.20.2.1:8080/roarzone/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0jRwRg/Atn-News.jpg",Atn News
-http://172.20.2.1:8080/roarzone/49/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/AtnNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzzmxqm/Mohonatv.jpg",MohonaTV
-http://172.20.2.1:8080/roarzone/50/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/MohonaTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
 http://192.168.92.2:8080/BanglaVision/mpegts
 #EXTINF:-1 tvg-logo=Sport 18
@@ -92,9 +92,9 @@ http://172.20.2.1:8080/roarzone/57/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GannBangla
 http://192.168.92.2:8080/Gaanbangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4FLXJR/nagorik.png",NagorikTV
-http://172.20.2.1:8080/roarzone/59/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/NagorikTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDSYMTt/Zoom.png",Zoom
-http://172.20.2.1:8080/roarzone/60/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Zoom/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://172.20.2.1:8080/roarzone/61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmqWKM1/atn-islamic.png",Atn Islamic
@@ -122,7 +122,7 @@ http://172.20.2.1:8080/roarzone/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
 http://192.168.92.2:8080/EkusheyTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S098ThP/star-plus-hd-logo.jpg",Star-plus
-http://172.20.2.1:8080/roarzone/67/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Star-plus/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
 http://192.168.92.2:8080/Colors/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
