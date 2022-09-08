@@ -10,9 +10,9 @@ http://192.168.92.2:8080/Tsport/mpegts
 http://192.168.92.2:8080/gazitv/mpegts
 http://192.168.92.2:8080/GAZI/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
-http://172.20.2.1:8080/roarzone/4/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Channel9/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://172.20.2.1:8080/roarzone/6/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Channel-i/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
 http://172.20.2.1:8080/roarzone/8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=Desh Tv
@@ -102,7 +102,7 @@ http://172.20.2.1:8080/roarzone/63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
 http://192.168.92.2:8080/AtnBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
-http://172.20.2.1:8080/roarzone/5/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Channel24/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
 http://172.20.2.1:8080/roarzone/11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
@@ -116,7 +116,7 @@ http://172.20.2.1:8080/roarzone/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
 http://172.20.2.1:8080/roarzone/16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
-http://172.20.2.1:8080/roarzone/7/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/DBCNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",Movie BD
 http://172.20.2.1:8080/roarzone/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
