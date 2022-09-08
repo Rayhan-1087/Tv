@@ -7,7 +7,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 http://172.20.2.1:8080/roarzone/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O 01975321087
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
-http://172.20.2.1:8080/roarzone/1/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/GAZI/mpeg.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
 http://172.20.2.1:8080/roarzone/4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
