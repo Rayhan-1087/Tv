@@ -46,11 +46,11 @@ http://192.168.92.2:8080/StarSportsSelect2/mpegts
 #EXTINF:-1,Zee Bangla Cinema
 http://172.20.2.1:8080/roarzone/29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
-http://172.20.2.1:8080/roarzone/30/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Star-jalsha/mpegts
 #EXTINF:-1 jalsha Movies
-http://172.20.2.1:8080/roarzone/31/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Jalsha-Movies/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://172.20.2.1:8080/roarzone/34/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/ZeeBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
 http://172.20.2.1:8080/roarzone/36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
@@ -68,7 +68,7 @@ http://192.168.92.2:8080/SonyMAx/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
 http://172.20.2.1:8080/roarzone/91/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
-http://172.20.2.1:8080/roarzone/33/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SonyAath/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://172.20.2.1:8080/roarzone/35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f23KrsM/zee-tv-hd.jpg",Zee Tv
@@ -124,7 +124,7 @@ http://192.168.92.2:8080/EkusheyTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S098ThP/star-plus-hd-logo.jpg",Star-plus
 http://172.20.2.1:8080/roarzone/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
-http://172.20.2.1:8080/roarzone/68/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Colors/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
 http://172.20.2.1:8080/roarzone/69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JXCB3w/Sky-Sport.png",Sky Sport Cricket
@@ -142,7 +142,7 @@ http://172.20.2.1:8080/roarzone/82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8zmm8ZD/aljazeera.png",Aljazeera
 http://192.168.92.2:8080/Aljazeera/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jsQS9h/Zee-Action.jpg",Zee Action
-http://172.20.2.1:8080/roarzone/90/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/ZeeAction/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3q28fS/zing.png",Zing
 http://192.168.92.2:8080/Zing/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcDMsVQ/sangeet-bangla.jpg",Sangeet Bangla
