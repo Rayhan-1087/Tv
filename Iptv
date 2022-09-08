@@ -32,15 +32,15 @@ http://172.20.2.1:8080/roarzone/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://172.20.2.1:8080/roarzone/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
-http://172.20.2.1:8080/roarzone/22/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SonyTen3/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRMf0KF/sonysix.gif",Sony Six
-http://172.20.2.1:8080/roarzone/24/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SonySix/mpegts
 #EXTINF:-1,Star Sports 1
-http://172.20.2.1:8080/roarzone/25/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/StatSports1/mpegts
 #EXTINF:-1,Star Sports 2
-http://172.20.2.1:8080/roarzone/26/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/StatSports2/mpegts
 #EXTINF:-1,Star Sports Select 1
-http://172.20.2.1:8080/roarzone/27/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/StarSportsSelect1/mpegts
 #EXTINF:-1,Star Sports Select 2
 http://172.20.2.1:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla Cinema
