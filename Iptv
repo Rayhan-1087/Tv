@@ -112,7 +112,7 @@ http://172.20.2.1:8080/roarzone/13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
 http://172.20.2.1:8080/roarzone/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
-http://172.20.2.1:8080/roarzone/15/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SATV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
 http://172.20.2.1:8080/roarzone/16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
@@ -120,7 +120,7 @@ http://192.168.92.2:8080/DBCNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",Movie BD
 http://172.20.2.1:8080/roarzone/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
-http://172.20.2.1:8080/roarzone/65/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/EkusheyTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S098ThP/star-plus-hd-logo.jpg",Star-plus
 http://172.20.2.1:8080/roarzone/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
@@ -146,14 +146,14 @@ http://172.20.2.1:8080/roarzone/90/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3q28fS/zing.png",Zing
 http://172.20.2.1:8080/roarzone/93/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcDMsVQ/sangeet-bangla.jpg",Sangeet Bangla
-http://172.20.2.1:8080/roarzone/96/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SangeetBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Yh9nfj/bflix-movies.png",Bflix Movies
 http://172.20.2.1:8080/roarzone/97/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
-http://172.20.2.1:8080/roarzone/98/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/9x-jalwa1/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
 http://172.20.2.1:8080/roarzone/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
 http://172.20.2.1:8080/roarzone/100/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyLVXZW/MTV.png",MT.... V
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jyLVXZW/MTV.png",MTV
 http://192.168.92.2:8080/MTV/mpegts
