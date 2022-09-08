@@ -60,9 +60,9 @@ http://172.20.2.1:8080/roarzone/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
 http://172.20.2.1:8080/roarzone/66/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
-http://172.20.2.1:8080/roarzone/75/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/StarGold/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://172.20.2.1:8080/roarzone/76/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Zee-CinemaHd/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:8080/SonyMAx/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
@@ -130,9 +130,9 @@ http://172.20.2.1:8080/roarzone/69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JXCB3w/Sky-Sport.png",Sky Sport Cricket
 http://172.20.2.1:8080/roarzone/71/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrZ73Vh/PTV.png",PTv
-http://172.20.2.1:8080/roarzone/73/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/PTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jm0QqFf/Tv.jpg",&Tv
-http://172.20.2.1:8080/roarzone/74/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/AndTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
 http://192.168.92.2:8080/PicturesHd/mpegts
 #EXTINF:-1, Cartoon Network
