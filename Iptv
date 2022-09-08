@@ -14,13 +14,13 @@ http://192.168.92.2:8080/Channel9/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
 http://192.168.92.2:8080/Channel-i/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
-http://172.20.2.1:8080/roarzone/8/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Deepto-tv/mpegts
 #EXTINF:-1 tvg-logo=Desh Tv
-http://172.20.2.1:8080/roarzone/9/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/DeshTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
-http://172.20.2.1:8080/roarzone/10/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Duronto-tv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://172.20.2.1:8080/roarzone/17/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/SomoyTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://192.168.92.2:8080/Maasranga/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
@@ -104,17 +104,17 @@ http://192.168.92.2:8080/AtnBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
 http://192.168.92.2:8080/Channel24/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
-http://172.20.2.1:8080/roarzone/11/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/EkattorTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://172.20.2.1:8080/roarzone/12/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/IndependentTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://172.20.2.1:8080/roarzone/13/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/JAMUNA-TV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
 http://172.20.2.1:8080/roarzone/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
 http://192.168.92.2:8080/SATV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
-http://172.20.2.1:8080/roarzone/16/tracks-v1a1/mono.m3u8
+http://192.168.92.2:8080/Ananda-tv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
 http://192.168.92.2:8080/DBCNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",Movie BD
