@@ -4,10 +4,13 @@ http://192.168.92.2:8080/BTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://192.168.92.2:8080/Boishakhi/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
+http://172.20.2.1:8080/roarzone/102/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/Tsport/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
+http://172.20.2.1:8080/roarzone/82/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/GAZI/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
+http://172.20.2.1:8080/roarzone/1/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/GAZI/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
 http://192.168.92.2:8080/Channel9/mpegts
@@ -20,6 +23,7 @@ http://192.168.92.2:8080/DeshTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
 http://192.168.92.2:8080/Duronto-tv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
+http://172.20.2.1:8080/roarzone/17/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/SomoyTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://192.168.92.2:8080/Maasranga/mpegts
@@ -46,10 +50,12 @@ http://192.168.92.2:8080/StarSportsSelect2/mpegts
 #EXTINF:-1,Zee Bangla Cinema
 http://192.168.92.2:8080/ZeeBanglaCinema/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
+http://172.20.2.1:8080/roarzone/29/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/Star-jalsha/mpegts
 #EXTINF:-1 jalsha Movies
 http://192.168.92.2:8080/Jalsha-Movies/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
+http://172.20.2.1:8080/roarzone/34/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/ZeeBangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkNhLVn/SonySAB.jpg",SonySAB
 http://192.168.92.2:8080/SonySAB/mpegts
@@ -58,6 +64,7 @@ http://172.20.2.1:8080/roarzone/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvC66K7/9XM-Logo.jpg",9XM
 http://192.168.92.2:8080/9XM/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
+http://172.20.2.1:8080/roarzone/66/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/ColorsBangla/mpegts
 #EXTINF:-1,Star Gold
 http://192.168.92.2:8080/StarGold/mpegts
