@@ -32,6 +32,7 @@ http://192.168.92.2:8080/NTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
 http://192.168.92.2:8080/Nick/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
+http://172.20.2.1:8080/roarzone/20/tracks-v1a1/mono.m3u8
 http://192.168.92.2:8080/SonyTen1/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.92.2:8080/SonyTen2/mpegts
