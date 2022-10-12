@@ -18,7 +18,7 @@ http://192.168.92.2:8080/Channel9/mpegts
 http://192.168.92.2:8080/Channel-i/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
 http://192.168.92.2:8080/Deepto-tv/mpegts
-#EXTINF:-1 tvg-logo=Desh Tv
+#EXTINF:-1 tvg-logo=DeshTv
 http://192.168.92.2:8080/DeshTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
 http://192.168.92.2:8080/Duronto-tv/mpegts
