@@ -12,7 +12,7 @@ http://192.168.92.2:9090/memfs/cb779537-2b40-4136-abb7-2412d1342b76.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
 http://192.168.92.2:9090/memfs/e1ce300f-8eb1-4466-b865-fd5c0fb6d952.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://192.168.92.2:8080/Channel-i/mpegts
+http://192.168.92.2:9090/memfs/4c63ba25-f273-4109-bafe-223bd933c665.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
 http://192.168.92.2:8080/Deepto-tv/mpegts
 #EXTINF:-1 tvg-logo=DeshTv
@@ -108,7 +108,7 @@ http://172.20.2.1:8080/roarzone/63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
 http://192.168.92.2:9090/memfs/6704d3ed-4ccb-4e5a-bbbc-465728153bdb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
-http://192.168.92.2:8080/Channel24/mpegts
+http://192.168.92.2:9090/memfs/240ba183-95fb-44c5-bc8b-541d4bd59dcb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
 http://192.168.92.2:8080/EkattorTv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
