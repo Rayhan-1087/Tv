@@ -12,7 +12,7 @@ http://192.168.92.2:9090/memfs/cb779537-2b40-4136-abb7-2412d1342b76.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHmS4TF/Channel-9-live.png",Channel9
 http://192.168.92.2:9090/memfs/e1ce300f-8eb1-4466-b865-fd5c0fb6d952.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://192.168.92.2:9090/memfs/4c63ba25-f273-4109-bafe-223bd933c665.ts
+http://192.168.92.2:9090/memfs/4c63ba25-f273-4109-bafe-223bd933c665.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
 http://192.168.92.2:8080/Deepto-tv/mpegts
 #EXTINF:-1 tvg-logo=DeshTv
