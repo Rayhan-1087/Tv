@@ -92,7 +92,7 @@ http://192.168.92.2:8080/AtnNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hzzmxqm/Mohonatv.jpg",MohonaTV
 http://192.168.92.2:8080/MohonaTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
-http://192.168.92.2:8080/BanglaVision/mpegts
+http://192.168.92.2:9090/memfs/d7927ff4-bb0b-41d3-b6b8-e35e5fd24c21.m3u8
 #EXTINF:-1 tvg-logo=Sport 18
 http://172.20.2.1:8080/roarzone/57/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GannBangla
@@ -106,7 +106,7 @@ http://172.20.2.1:8080/roarzone/61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmqWKM1/atn-islamic.png",Atn Islamic
 http://172.20.2.1:8080/roarzone/63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
-http://192.168.92.2:9090/memfs/362d0a94-789c-4bf0-ac51-00b4260c57e8.m3u8
+http://192.168.92.2:9090/memfs/6704d3ed-4ccb-4e5a-bbbc-465728153bdb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
 http://192.168.92.2:8080/Channel24/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
