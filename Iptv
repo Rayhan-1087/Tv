@@ -14,14 +14,15 @@ http://192.168.92.2:9090/memfs/e1ce300f-8eb1-4466-b865-fd5c0fb6d952.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
 http://192.168.92.2:9090/memfs/4c63ba25-f273-4109-bafe-223bd933c665.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
-http://192.168.92.2:8080/Deepto-tv/mpegts
+http://192.168.92.2:9090/memfs/67c2270a-bfef-4fb5-b397-e354e8c67f0c.m3u8
+#EXTINF:-1 tvg-logo=News 24
+http://192.168.92.2:9090/memfs/346658ef-8faa-426e-8840-37e431cc7618.m3u8
 #EXTINF:-1 tvg-logo=DeshTv
-http://192.168.92.2:8080/DeshTv/mpegts
+http://192.168.92.2:9090/memfs/5c674c0e-3535-4257-a7bb-7b9a53f9cbd8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dK0s0QB/duronto.jpg",Duronto-tv
-http://192.168.92.2:8080/Duronto-tv/mpegts
+http://192.168.92.2:9090/memfs/e9d1ff15-a90a-43bc-95f1-89f0f6260e35.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://172.20.2.1:8080/roarzone/17/tracks-v1a1/mono.m3u8
-http://192.168.92.2:8080/SomoyTv/mpegts
+http://192.168.92.2:9090/memfs/a5f9a5f2-dc54-4ec4-816e-93dc0a4cf29c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://192.168.92.2:8080/Maasranga/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
@@ -110,17 +111,17 @@ http://192.168.92.2:9090/memfs/6704d3ed-4ccb-4e5a-bbbc-465728153bdb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel24
 http://192.168.92.2:9090/memfs/240ba183-95fb-44c5-bc8b-541d4bd59dcb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
-http://192.168.92.2:8080/EkattorTv/mpegts
+http://192.168.92.2:9090/memfs/e039567a-15ca-472e-ab83-1248603c41d0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://192.168.92.2:8080/IndependentTV/mpegts
+http://192.168.92.2:9090/memfs/46411234-9ebc-479a-9088-fe2933e5f05e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://192.168.92.2:8080/JAMUNA-TV/mpegts
+http://192.168.92.2:9090/memfs/ff5eae02-dd8d-4859-9577-3eef9e4ae7bc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
-http://172.20.2.1:8080/roarzone/14/tracks-v1a1/mono.m3u8
+http://192.168.92.2:9090/memfs/8f6801ff-7e5c-4d04-8ebe-efeded6e65aa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
-http://192.168.92.2:8080/SATV/mpegts
+http://192.168.92.2:9090/memfs/4abd7e29-b54f-45e7-9464-f6d1728c0599.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKmm35j/ananda-tv.jpg",Ananda-tv
-http://192.168.92.2:8080/Ananda-tv/mpegts
+http://192.168.92.2:9090/memfs/63cca2a4-275c-4cae-b406-278b694043bb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
 http://192.168.92.2:8080/DBCNews/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7PWpqn/Movie-Bd.jpg",Movie BD
