@@ -169,6 +169,6 @@ http://192.168.92.2:8080/9x-jalwa1/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
 http://172.20.2.1:8080/roarzone/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
-http://172.20.2.1:8080/roarzone/100/tracks-v1a1/mono.m3u8
+rtmp://192.168.92.2/tv/f77f794e-6ae6-45b9-9157-6b7bbad13102.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyLVXZW/MTV.png",MTV
 http://192.168.92.2:9090/memfs/2bf56a69-74e4-4f5e-bf81-53936f2d731a.m3u8
