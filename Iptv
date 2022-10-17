@@ -3,8 +3,6 @@
 http://192.168.92.2:9090/memfs/bc824db8-95c4-4efc-a35f-7309020635ab.m3u8
 http://192.168.92.2:9090/memfs/15a314ef-0551-4d99-8c35-85572e856b1f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
-rtmp://192.168.92.2/tv/f77f794e-6ae6-45b9-9157-6b7bbad13102.stream
-rtmp://192.168.92.2/tv/f77f794e-6ae6-45b9-9157-6b7bbad13102.stream
 http://192.168.92.2:9090/memfs/e0b6e4ea-8e6b-494c-b13b-95aa94d47538.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
 http://192.168.92.2:9090/memfs/7c1737a7-726d-47fa-9788-871df8f4f2b2.m3u8
@@ -171,6 +169,6 @@ http://192.168.92.2:8080/9x-jalwa1/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
 http://172.20.2.1:8080/roarzone/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m46HSr4/Pic.png",&PicturesHd
-rtmp://192.168.92.2/tv/f77f794e-6ae6-45b9-9157-6b7bbad13102.stream
+http://192.168.92.2:9090/memfs/f77f794e-6ae6-45b9-9157-6b7bbad13102.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyLVXZW/MTV.png",MTV
 http://192.168.92.2:9090/memfs/2bf56a69-74e4-4f5e-bf81-53936f2d731a.m3u8
