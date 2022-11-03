@@ -43,7 +43,7 @@ http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://192.168.92.2:9090/memfs/9d7706c9-fd02-443d-a29a-dfb5f7c8eef0.m3u8
 #EXTINF:-1,Star Sports Select 2
-#EXTINF:-1,Star Bein Spotrs 2
+#EXTINF:-1,Bein Spotrs 2
 http://192.168.92.2:9090/memfs/0f7e61e6-c23a-410a-b9c1-6b5b2ba72680.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://192.168.92.2:9090/memfs/3281a446-81c0-4315-b1c0-9901f2819b18.m3u8
@@ -94,8 +94,6 @@ http://192.168.92.2:9090/memfs/4d16f7a4-70f0-4bd5-a60a-b68c9d051654.m3u8
 http://192.168.92.2:9090/memfs/0c46045d-4fe8-48c8-82f2-562386facbfa.m3u8
 #EXTINF:-1, Cartoon Network
 http://192.168.92.2:9090/memfs/0b40c537-a6d6-42fe-8e93-27af7319d853.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYpRtcX/atn-music.png",Atn Music
-http://192.168.92.2:9090/memfs/1f8c51c3-a5af-4054-9f9a-d20b5b7cc19a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8zmm8ZD/aljazeera.png",Aljazeera
 http://192.168.92.2:9090/memfs/5629d757-03c2-45ba-b2bd-2aa1fe6efad8.m3u8
 #EXTINF:-1,Pace Tv
