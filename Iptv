@@ -71,8 +71,6 @@ http://192.168.92.2:9090/memfs/69ec215b-f4c6-4504-8bf8-8f54d947ce16.m3u8
 http://192.168.92.2:9090/memfs/d7927ff4-bb0b-41d3-b6b8-e35e5fd24c21.m3u8
 #EXTINF:-1,GannBangla
 http://192.168.92.2:9090/memfs/314aa985-de68-442e-a60f-633981d27352.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k4FLXJR/nagorik.png",NagorikTV
-http://192.168.92.2:9090/memfs/c42b3229-8fd1-4432-8b83-8596203e679e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDSYMTt/Zoom.png",Zoom
 http://192.168.92.2:9090/memfs/e1063782-22c9-4145-84d5-972af0bd8de7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
