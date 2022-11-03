@@ -47,7 +47,7 @@ http://192.168.92.2:9090/memfs/9d7706c9-fd02-443d-a29a-dfb5f7c8eef0.m3u8
 #EXTINF:-1,Star Sports Select 2
 #EXTINF:-1,Star Bein Spotrs 2
 http://192.168.92.2:9090/memfs/0f7e61e6-c23a-410a-b9c1-6b5b2ba72680.m3u8
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://192.168.92.2:9090/memfs/3281a446-81c0-4315-b1c0-9901f2819b18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
 http://192.168.92.2:9090/memfs/34bf990b-0b07-473c-9a69-5428e1396ccc.m3u8
@@ -60,8 +60,6 @@ http://192.168.92.2:9090/memfs/bb1a97f8-8431-4aa2-9380-02f62150d5d8.m3u8
 http://192.168.92.2:9090/memfs/7cab1ff5-dd8b-4bf9-a866-07a4438238d1.m3u8
 #EXTINF:-1,Star Gold
 http://192.168.92.2:9090/memfs/d52fd603-985d-4d99-b90f-15171823cb5e.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:9090/memfs/9cc37548-6424-4678-9c10-47679dd07b72.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:9090/memfs/8678a958-d6fd-49fa-bf94-7556962a1630.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
