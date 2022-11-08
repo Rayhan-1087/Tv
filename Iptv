@@ -57,6 +57,8 @@ http://192.168.92.2:9090/memfs/5629d757-03c2-45ba-b2bd-2aa1fe6efad8.m3u8
 http://192.168.92.2:9090/memfs/2a5738a4-a59a-40a8-9eb6-778a09a456ec.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
 http://192.168.92.2:9090/memfs/53ea4580-7bae-4a9c-861e-1e4fcd4812dc.m3u8
+#EXTINF:-1,ROMS TV
+http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 
 
 
