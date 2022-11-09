@@ -6,7 +6,7 @@ http://192.168.93.2/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
 http://192.168.92.2:9090/memfs/5af0803f-fa39-484c-b7fd-5c7e5c100989.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
-http://192.168.92.2:9090/memfs/5af0803f-fa39-484c-b7fd-5c7e5c100989.m3u8
+http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 #EXTINF:-1,Pace Tv
 http://192.168.92.2:9090/memfs/9b1838be-42c0-42e9-83e0-c22394256e55.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
@@ -57,8 +57,6 @@ http://192.168.92.2:9090/memfs/5629d757-03c2-45ba-b2bd-2aa1fe6efad8.m3u8
 http://192.168.92.2:9090/memfs/2a5738a4-a59a-40a8-9eb6-778a09a456ec.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9x-jalwa
 http://192.168.92.2:9090/memfs/53ea4580-7bae-4a9c-861e-1e4fcd4812dc.m3u8
-#EXTINF:-1,ROMS TV
-http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 
 
 
