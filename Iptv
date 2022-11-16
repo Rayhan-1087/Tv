@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV/BTV World
 http://192.168.92.2:9090/memfs/bc824db8-95c4-4efc-a35f-7309020635ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
-http://192.168.93.2/0.ts
+http://192.168.92.2:9090/memfs/24ed16bc-dffd-47cd-99ba-a4a8c05e12bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
-http://192.168.93.2/2.ts
+http://192.168.92.2:9090/memfs/5af0803f-fa39-484c-b7fd-5c7e5c100989.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.93.2/10.ts
+http://192.168.92.2:9090/memfs/ede03685-34b4-4913-a155-dac18077aded.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 #EXTINF:-1,Star Sports 1
-http://192.168.93.2/4.ts
+http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
 http://192.168.93.2/6.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.93.2/8.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
-http://192.168.93.2/14.ts
+http://192.168.92.2:9090/memfs/34bf990b-0b07-473c-9a69-5428e1396ccc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.93.2/12.ts
+http://192.168.92.2:9090/memfs/ef1ed6ba-aa6e-4957-8900-e8c92abf5db8.m3u8
 #EXTINF:-1,Bein Spotrs 2
 http://192.168.92.2:9090/memfs/0f7e61e6-c23a-410a-b9c1-6b5b2ba72680.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
