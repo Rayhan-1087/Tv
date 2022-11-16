@@ -7,6 +7,20 @@ http://192.168.93.2/0.ts
 http://192.168.92.2:9090/memfs/5af0803f-fa39-484c-b7fd-5c7e5c100989.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
+#EXTINF:-1,Star Sports 1
+http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://192.168.92.2:9090/memfs/9d7706c9-fd02-443d-a29a-dfb5f7c8eef0.m3u8
+#EXTINF:-1,Bein Spotrs 2
+http://192.168.92.2:9090/memfs/0f7e61e6-c23a-410a-b9c1-6b5b2ba72680.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
+http://192.168.93.2/14.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
+http://192.168.92.2:9090/memfs/ef1ed6ba-aa6e-4957-8900-e8c92abf5db8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
+http://192.168.92.2:9090/memfs/3281a446-81c0-4315-b1c0-9901f2819b18.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
+http://192.168.92.2:9090/memfs/7cab1ff5-dd8b-4bf9-a866-07a4438238d1.m3u8
 #EXTINF:-1,Pace Tv
 http://192.168.92.2:9090/memfs/9b1838be-42c0-42e9-83e0-c22394256e55.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
@@ -23,20 +37,6 @@ http://192.168.92.2:9090/memfs/c5653ea5-4c7f-44b6-8fcc-52d30d07fc23.m3u8
 http://192.168.92.2:9090/memfs/59146736-2f05-4064-88a8-3c03adb16852.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
 http://192.168.92.2:9090/memfs/ede03685-34b4-4913-a155-dac18077aded.m3u8
-#EXTINF:-1,Star Sports 1
-http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://192.168.92.2:9090/memfs/9d7706c9-fd02-443d-a29a-dfb5f7c8eef0.m3u8
-#EXTINF:-1,Bein Spotrs 2
-http://192.168.92.2:9090/memfs/0f7e61e6-c23a-410a-b9c1-6b5b2ba72680.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:9090/memfs/3281a446-81c0-4315-b1c0-9901f2819b18.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
-http://192.168.92.2:9090/memfs/34bf990b-0b07-473c-9a69-5428e1396ccc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:9090/memfs/ef1ed6ba-aa6e-4957-8900-e8c92abf5db8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
-http://192.168.92.2:9090/memfs/7cab1ff5-dd8b-4bf9-a866-07a4438238d1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drg4K2M/Bangla-Talkies.png",Bangla Talkies
 http://192.168.92.2:9090/memfs/9b107ade-01f6-452a-91de-928ea10b8924.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
