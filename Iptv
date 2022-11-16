@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV/BTV World
-http://192.168.92.2:9090/memfs/bc824db8-95c4-4efc-a35f-7309020635ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
 http://192.168.92.2:9090/memfs/24ed16bc-dffd-47cd-99ba-a4a8c05e12bd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
@@ -106,8 +104,8 @@ http://192.168.92.2:9090/memfs/86921f69-e565-406e-a0e1-2aa0d2127209.m3u8
 http://192.168.92.2:9090/memfs/e043c2ea-3ec8-4469-9907-bd717c43e656.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRMf0KF/sonysix.gif",Sony Six
 http://192.168.92.2:9090/memfs/1be68648-f218-4af6-b052-bb140045f5af.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV/BTV World
+http://192.168.92.2:9090/memfs/bc824db8-95c4-4efc-a35f-7309020635ab.m3u8
 #EXTINF:-1,jalsha Movies
 http://192.168.92.2:9090/memfs/c2c8568e-88d6-4590-9e94-f9922001a9ba.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
