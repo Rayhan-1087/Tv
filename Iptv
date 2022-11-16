@@ -12,7 +12,7 @@ http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 #EXTINF:-1,Star Sports 1
 http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://192.168.93.2/6.ts
+http://192.168.92.2:9090/memfs/0140256b-224a-4e40-bc59-5972dfc3cb87.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.93.2/8.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
