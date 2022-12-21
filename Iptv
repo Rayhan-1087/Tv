@@ -4,7 +4,6 @@ http://192.168.92.2:9090/memfs/eeb30a5d-a447-41b7-a341-aa7d08bac9fd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
 http://192.168.92.2:9090/memfs/7d477040-9f2b-4e9c-b188-bba229d44dd6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
-rtsp://192.168.93.2/0
 http://192.168.92.2:9090/memfs/959d0de9-0134-408e-8d1b-f95add76d9f2.m3u8
 #EXTINF:-1,Star Sports 1
 http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
