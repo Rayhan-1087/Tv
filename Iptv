@@ -24,6 +24,7 @@ http://192.168.92.2:9090/memfs/a5f9a5f2-dc54-4ec4-816e-93dc0a4cf29c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://192.168.92.2:9090/memfs/093e5600-2746-40b7-9756-d7e1dc3b69b1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
+http://192.168.92.2:9090/memfs/e0b6e4ea-8e6b-494c-b13b-95aa94d47538.m3u8
 http://192.168.92.2:9090/memfs/d7927ff4-bb0b-41d3-b6b8-e35e5fd24c21.m3u8
 #EXTINF:-1,Pace Tv
 http://192.168.92.2:9090/memfs/9b1838be-42c0-42e9-83e0-c22394256e55.m3u8
