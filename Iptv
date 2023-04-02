@@ -59,9 +59,10 @@ http://192.168.92.2:9090/memfs/978264fd-c75f-4eef-938a-62185065ee07.m3u8
 http://192.168.92.2:9090/memfs/46411234-9ebc-479a-9088-fe2933e5f05e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel 24
 http://192.168.92.2:9090/memfs/240ba183-95fb-44c5-bc8b-541d4bd59dcb.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxZz2KG/Satv.jpg",SATV
+http://192.168.92.2:9090/memfs/4d253eb3-54d8-44f5-abbb-9f3780d68ba5.m3u8
 #EXTINF:-1,DESHE BEDESHE
 http://192.168.92.2:9090/memfs/2f4fc499-2ad9-489b-9cbd-d440775c1c32.m3u8
-#EXTINF:-1,DESHE BEDESHE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvsG7gh/download.jpg",EkusheyTv
 http://192.168.92.2:9090/memfs/13696cfb-e09c-4469-918a-b87faacbbd23.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNn5LqZ/dbc-news.png",DBCNews
