@@ -1,11 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
-http://192.168.92.2:9090/memfs/bc824db8-95c4-4efc-a35f-7309020635ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
 http://192.168.92.2:9090/memfs/eeb30a5d-a447-41b7-a341-aa7d08bac9fd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
 http://192.168.92.2:9090/memfs/34bf990b-0b07-473c-9a69-5428e1396ccc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.92.2:9090/memfs/0140256b-224a-4e40-bc59-5972dfc3cb87.m3u8
@@ -87,3 +88,4 @@ http://192.168.92.2:9090/memfs/2bf56a69-74e4-4f5e-bf81-53936f2d731a.m3u8
 http://192.168.92.2:9090/memfs/52a0767c-127b-44b2-b8c6-4f714c1b0b3f.m3u8
 #EXTINF:-1,RED BULL SPORTS
 http://192.168.92.2:9090/memfs/6a82dd5b-4588-45d0-8836-080950845167.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
