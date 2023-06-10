@@ -38,7 +38,7 @@ http://192.168.92.2:9090/memfs/4bbca895-7d55-4e42-abd9-3e235a1cf295.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
 http://192.168.92.2:9090/memfs/cf73760d-d388-45f9-8f5b-031d8bebc765.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
-http://192.168.92.2:9090/memfs/7e1f1cb4-084e-4bc7-9a75-28a043503880.m3u8
+http://192.168.92.2:9090/memfs/7e1f1cb4-084e-4bc7-9a75- 28a043503880.m3u8
 #EXTINF:-1,News24
 http://192.168.92.2:9090/memfs/440efedf-a9d1-40d6-abcc-72ba9554b860.m3u8
 #EXTINF:-1,Mytv
