@@ -89,4 +89,4 @@ http://192.168.92.2:9090/memfs/2bf56a69-74e4-4f5e-bf81-53936f2d731a.m3u8
 http://192.168.92.2:9090/memfs/52a0767c-127b-44b2-b8c6-4f714c1b0b3f.m3u8
 #EXTINF:-1,RED BULL SPORTS
 http://192.168.92.2:9090/memfs/6a82dd5b-4588-45d0-8836-080950845167.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg", BTV
