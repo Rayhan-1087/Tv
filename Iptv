@@ -12,7 +12,6 @@ http://192.168.92.2:9090/memfs/a4718d9d-5d9f-4607-9131-1a752f77bbab.m3u8
 http://192.168.92.2:9090/memfs/0140256b-224a-4e40-bc59-5972dfc3cb87.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
-http://192.168.92.2:9090/memfs/088f7459-d9c0-47c1-820e-a4834de4c454.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
 http://192.168.92.2:9090/memfs/7d477040-9f2b-4e9c-b188-bba229d44dd6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
@@ -22,6 +21,7 @@ http://192.168.92.2:9090/memfs/ede03685-34b4-4913-a155-dac18077aded.m3u8
 #EXTINF:-1,AD Sports 1
 http://192.168.92.2:9090/memfs/e7f193b2-2678-4293-a76f-47c14fe8f50e.m3u8
 #EXTINF:-1,AD Sports 2
+http://192.168.92.2:9090/memfs/088f7459-d9c0-47c1-820e-a4834de4c454.m3u8
 #EXTINF:-1,GUBBARE KIDS
 http://192.168.92.2:9090/memfs/b1d9a1ba-cc41-4196-98db-0f8e08235cfc.m3u8
 #EXTINF:-1,CARTOON NETWORK
