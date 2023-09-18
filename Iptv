@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WBM7Rn/btv.jpg",BTV
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
-http://192.168.92.2:9090/memfs/eeb30a5d-a447-41b7-a341-aa7d08bac9fd.m3u8
+http://tv.romsnetwork.com:8080/memfs/a3953207-f237-47f3-9049-e46352cc18a6.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ", Star Sports 1
-http://192.168.92.2:9090/memfs/34bf990b-0b07-473c-9a69-5428e1396ccc.m3u8
+http://tv.romsnetwork.com:8080/memfs/503b6591-b697-4afe-9007-650fc7b79393.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
-http://192.168.92.2:9090/memfs/ed9443aa-662a-479d-bc76-396c49cb78bd.m3u8
+http://tv.romsnetwork.com:8080/memfs/24ed496b-45ac-45f3-8c2b-ba129cccabff.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:9090/memfs/a4718d9d-5d9f-4607-9131-1a752f77bbab.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg",Sony Ten2
-http://192.168.92.2:9090/memfs/0140256b-224a-4e40-bc59-5972dfc3cb87.m3u8
+http://tv.romsnetwork.com:8080/memfs/5cf5117f-fefd-4dcf-b604-134565ab76c5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
-http://192.168.92.2:9090/memfs/df983137-fe55-445b-b1b5-4a0d9c8db8e2.m3u8
+http://tv.romsnetwork.com:8080/memfs/c2ee56f6-4381-40c3-bfe5-ff6708111195.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star-jalsha
-http://192.168.92.2:9090/memfs/7d477040-9f2b-4e9c-b188-bba229d44dd6.m3u8
+http://tv.romsnetwork.com:8080/memfs/b0bff5d0-3c68-4815-84fd-463168186248.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:9090/memfs/ef1ed6ba-aa6e-4957-8900-e8c92abf5db8.m3u8
+http://tv.romsnetwork.com:8080/memfs/586ee978-6b4e-4deb-97d9-ac4fc769e53a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:9090/memfs/ede03685-34b4-4913-a155-dac18077aded.m3u8
+http://tv.romsnetwork.com:8080/memfs/71473dd2-f5b3-4686-ab78-838e9c0f2dff.m3u8
 #EXTINF:-1,AD Sports 1
 http://192.168.92.2:9090/memfs/e7f193b2-2678-4293-a76f-47c14fe8f50e.m3u8
 #EXTINF:-1,AD Sports 2
