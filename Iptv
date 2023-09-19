@@ -58,7 +58,7 @@ http://tv.romsnetwork.com:8080/memfs/9bf7503c-f6a5-4e15-aec0-02ef41ef8fe8.m3u8
 http://tv.romsnetwork.com:8080/memfs/c887bcec-4098-4756-ae82-0fdaf74fae1f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
 http://tv.romsnetwork.com:8080/memfs/dd26ebf1-9d1f-481c-bb0c-2454e6eb9953.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png" News24
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png"News24
 http://tv.romsnetwork.com:8080/memfs/f4ce2210-adc4-4f37-ba67-91498a8a850e.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tc7dcs7j1bdk6ec/my_tv_bd.png"MyTv
 http://tv.romsnetwork.com:8080/memfs/4d175bea-fd03-4b47-98dc-edb561c9f5bf.m3u8
