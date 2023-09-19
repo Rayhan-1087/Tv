@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://tv.romsnetwork.com:8080/memfs/693c6de1-753a-445a-9780-671c570a717e.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://tv.romsnetwork.com:8080/memfs/a3953207-f237-47f3-9049-e46352cc18a6.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg", T SPORTS 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS 2
 http://tv.romsnetwork.com:8080/memfs/216dc65c-6c3c-43e4-9bae-8adc8750228f.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ", Star Sports 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://tv.romsnetwork.com:8080/memfs/503b6591-b697-4afe-9007-650fc7b79393.m3u8
-#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" Star Sports 2
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png"Star Sports 2
 http://tv.romsnetwork.com:8080/memfs/59917424-871d-4017-a4b0-8f0af54e3143.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
 http://tv.romsnetwork.com:8080/memfs/24ed496b-45ac-45f3-8c2b-ba129cccabff.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png"Star Sports Select 2
 http://tv.romsnetwork.com:8080/memfs/61e8d76e-7ea1-48c0-b775-e90b4acd0c94.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
@@ -28,17 +28,17 @@ http://tv.romsnetwork.com:8080/memfs/c2ee56f6-4381-40c3-bfe5-ff6708111195.m3u8
 http://tv.romsnetwork.com:8080/memfs/b0bff5d0-3c68-4815-84fd-463168186248.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://tv.romsnetwork.com:8080/memfs/586ee978-6b4e-4deb-97d9-ac4fc769e53a.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" jalsha Movies
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg"jalsha Movies
 http://tv.romsnetwork.com:8080/memfs/118b18fe-ae3c-4e5c-b970-7226c8b11db2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
 http://tv.romsnetwork.com:8080/memfs/1a2b47e4-0f4e-40e3-b17f-af85b620cd40.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
 http://tv.romsnetwork.com:8080/memfs/63a14a10-6f0d-46cc-bcd8-f8db2ed8df33.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ikyfgnzfuvcrqnf/zee_bangla_cinema.jpg" Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ikyfgnzfuvcrqnf/zee_bangla_cinema.jpg"Zee Bangla Cinema
 http://tv.romsnetwork.com:8080/memfs/32a45e94-a31c-4fc3-a19d-9a8f8f3ec874.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://tv.romsnetwork.com:8080/memfs/54961754-2255-49be-b027-7a913dba3df3.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png" Star Gold
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png"Star Gold
 http://tv.romsnetwork.com:8080/memfs/c897db0f-4cb4-4f30-b467-ed0871960ee9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
 http://tv.romsnetwork.com:8080/memfs/748c61e4-137c-4eb3-b14c-fbbd4bf8c748.m3u8
@@ -60,11 +60,11 @@ http://tv.romsnetwork.com:8080/memfs/c887bcec-4098-4756-ae82-0fdaf74fae1f.m3u8
 http://tv.romsnetwork.com:8080/memfs/dd26ebf1-9d1f-481c-bb0c-2454e6eb9953.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png" News24
 http://tv.romsnetwork.com:8080/memfs/f4ce2210-adc4-4f37-ba67-91498a8a850e.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tc7dcs7j1bdk6ec/my_tv_bd.png" MyTv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tc7dcs7j1bdk6ec/my_tv_bd.png"MyTv
 http://tv.romsnetwork.com:8080/memfs/4d175bea-fd03-4b47-98dc-edb561c9f5bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dtq3pcB/atn-bvangla.png",AtnBangla
 http://tv.romsnetwork.com:8080/memfs/84c6e05a-f90e-4cdb-8ada-f63d1d576c54.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg" NTV
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg"NTV
 http://tv.romsnetwork.com:8080/memfs/744d085d-9b15-47b1-9751-c596c3a4fa83.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
 http://tv.romsnetwork.com:8080/memfs/8ac91634-97af-4f3c-9795-46adfc7c5dcb.m3u8
@@ -75,7 +75,7 @@ http://tv.romsnetwork.com:8080/memfs/3ccf5d92-9ccf-4fc6-8db4-051daf63cfa1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSf4cK/DEPTO-BANGLA.jpg",Deepto-tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8zmm8ZD/aljazeera.png",Aljazeera
 http://tv.romsnetwork.com:8080/memfs/14010793-c8e8-4d43-b8f8-98b1feb39f07.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" Discovery
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png"Discovery
 http://tv.romsnetwork.com:8080/memfs/b3695c05-76a4-42f1-90af-81335832b66c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://tv.romsnetwork.com:8080/memfs/aba99b76-20bf-4328-a81c-c1998cd8c765.m3u8
