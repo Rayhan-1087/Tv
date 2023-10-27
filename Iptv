@@ -10,7 +10,7 @@ http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8080/memfs/87c6daeb-3962-4c6d-825f-b00053ddb24b.m3u8
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png",Star Sports 2
-http://192.168.92.2:8080/memfs/24d1a96e-b7e8-415e-8ffc-d82b2e39f2d4.m3u8
+http://192.168.92.2:8080/memfs/c51fc476-e826-4858-ba79-4f2ebded3e80.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
 http://192.168.92.2:8080/memfs/6774ea93-8c88-4fea-b096-6ff7a72b62dd.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png",Star Sports Select 2
