@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://192.168.92.2:8080/memfs/cd632940-4c18-4b81-9fee-d75939bb1c0f.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
+http://103.93.140.3:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
 http://192.168.92.2:8080/memfs/c3e85411-1d73-47d6-b5c7-1a5652bdc40a.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS 2
 http://192.168.92.2:8080/memfs/3df6b870-fc0a-4fd1-bdd4-3dd06b81560b.m3u8
