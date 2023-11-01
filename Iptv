@@ -50,7 +50,7 @@ http://192.168.92.2:8080/memfs/7768a2cc-4eed-4a38-8135-15e2d333720f.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/gaan_bangla_tv_bd.png",Gaan Bangla
 http://192.168.92.2:8080/memfs/da673ddd-f0e6-4555-96fc-acc1bce5c95d.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://192.168.92.2:8080/memfs/365715bd-c18c-4842-a391-ef77c6ce0894.m3u8
+http://192.168.92.2:8080/memfs/accbc5da-78df-40be-b411-2dc11212a25e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
 http://192.168.92.2:8080/memfs/42e1eba0-365f-4a99-be37-17347ef82440.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
@@ -58,7 +58,7 @@ http://192.168.92.2:8080/memfs/7ee62ddc-13e5-4a6b-b6c3-187b4e40ebb9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HP7hkgr/Channel-I.jpg",Channel-i
 http://192.168.92.2:8080/memfs/80593875-08b8-4800-867a-d2e58b675361.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png",News24
-http://192.168.92.2:8080/memfs/d437f56b-7910-479d-bee9-5cf00526656a.m3u8
+http://192.168.92.2:8080/memfs/f88f833b-bc43-4945-9dea-adf944ff39b1.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
 http://192.168.92.2:8080/memfs/accb0e98-e377-416b-afd3-09bbd0e07ae1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
