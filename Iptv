@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
 http://192.168.92.2:8080/memfs/32472b6e-5044-4965-9640-690ee57a6d33.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/UPnSDQN",Roms TV
-http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/UPnSDQN",Roms TV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UPnSDQN.jpg",Roms TV
 http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
