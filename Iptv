@@ -29,16 +29,12 @@ http://192.168.92.2:8080/memfs/25e4e778-1fea-40b5-8083-b086173ee012.m3u8
 http://192.168.92.2:8080/memfs/d1574ca0-710b-44b4-9d1c-40b7a291d470.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://192.168.92.2:8080/memfs/bfc8a8f9-027e-4840-bb82-b3cfbdc82351.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg",jalsha Movies
-http://192.168.92.2:8080/memfs/62a4e0c2-b9cb-45f7-8551-0d085291b26b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
 http://192.168.92.2:8080/memfs/a6ddcb5a-e73e-4ce8-bbeb-df54bb62314e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
 http://192.168.92.2:8080/memfs/d2f2fd1a-ebff-4c3c-b056-29da89763f51.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://192.168.92.2:8080/memfs/573a6104-65e3-4ca8-8ca8-fd58ac86e6c3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qrWL3J7/Sony-hd.jpg",SonyTVHD
-http://192.168.92.2:8080/memfs/261ff1bf-0d27-404e-98ac-4caf5efed9c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:8080/memfs/40334842-3a91-4fdd-a6f6-bd28873f58b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
@@ -53,12 +49,8 @@ http://192.168.92.2:8080/memfs/42e1eba0-365f-4a99-be37-17347ef82440.m3u8
 http://192.168.92.2:8080/memfs/f88f833b-bc43-4945-9dea-adf944ff39b1.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
 http://192.168.92.2:8080/memfs/accb0e98-e377-416b-afd3-09bbd0e07ae1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sVfvNHR/ekattor.png",Ekattor Tv
-http://192.168.92.2:8080/memfs/6f6a7750-ce4b-4ff5-b0b6-bc737e7796be.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
 http://192.168.92.2:8080/memfs/2da7458e-bbe5-44d5-8c36-a2fb3107e067.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
-http://192.168.92.2:8080/memfs/e0058e73-fa11-47be-9dfa-9d13f9569d65.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel 24
 http://192.168.92.2:8080/memfs/68d8e6ac-6a47-49b4-8a5e-14edf3a4ffcf.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png",Discovery
