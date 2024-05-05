@@ -1,26 +1,12 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.imgur.com/dZ67sOT.jpgg",Roms TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS 2
-http://192.168.92.2:8080/memfs/79a906d1-79c8-4aed-bd77-c0725ed76448.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
-http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8080/memfs/87c6daeb-3962-4c6d-825f-b00053ddb24b.m3u8
-#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png",Star Sports 2
-http://192.168.92.2:8080/memfs/c51fc476-e826-4858-ba79-4f2ebded3e80.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
 http://192.168.92.2:8080/memfs/6774ea93-8c88-4fea-b096-6ff7a72b62dd.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png",Star Sports Select 2
-http://192.168.92.2:8080/memfs/7cacdf23-9aad-48a3-b01d-a8f1ad042ddb.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
-http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
-http://192.168.92.2:8080/memfs/7b48e1d1-f67e-4f1b-b9cc-d033b0103e1e.m3u8
 #EXTINF:-1,Sony Ten5
 http://192.168.92.2:8080/memfs/2318c12a-f5f7-433e-9ba4-252bd1cc1e3c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
@@ -29,6 +15,18 @@ http://192.168.92.2:8080/memfs/25e4e778-1fea-40b5-8083-b086173ee012.m3u8
 http://192.168.92.2:8080/memfs/d1574ca0-710b-44b4-9d1c-40b7a291d470.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://192.168.92.2:8080/memfs/bfc8a8f9-027e-4840-bb82-b3cfbdc82351.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
+http://192.168.92.2:8080/memfs/8fd7ba6b-cc9c-42b3-bb9e-e8afb61d2e86.m3u8
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png",Star Sports 2
+http://192.168.92.2:8080/memfs/c51fc476-e826-4858-ba79-4f2ebded3e80.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png",Star Sports Select 2
+http://192.168.92.2:8080/memfs/7cacdf23-9aad-48a3-b01d-a8f1ad042ddb.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
+http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
+http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
+http://192.168.92.2:8080/memfs/7b48e1d1-f67e-4f1b-b9cc-d033b0103e1e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
 http://192.168.92.2:8080/memfs/a6ddcb5a-e73e-4ce8-bbeb-df54bb62314e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
