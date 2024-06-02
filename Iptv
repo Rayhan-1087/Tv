@@ -3,6 +3,8 @@
 http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
+http://192.168.92.2:8080/memfs/32472b6e-5044-4965-9640-690ee57a6d33.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8080/memfs/87c6daeb-3962-4c6d-825f-b00053ddb24b.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
@@ -35,24 +37,16 @@ http://192.168.92.2:8080/memfs/d2f2fd1a-ebff-4c3c-b056-29da89763f51.m3u8
 http://192.168.92.2:8080/memfs/573a6104-65e3-4ca8-8ca8-fd58ac86e6c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
 http://192.168.92.2:8080/memfs/40334842-3a91-4fdd-a6f6-bd28873f58b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8080/memfs/8fd7ba6b-cc9c-42b3-bb9e-e8afb61d2e86.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/memfs/7768a2cc-4eed-4a38-8135-15e2d333720f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8080/memfs/accbc5da-78df-40be-b411-2dc11212a25e.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
+http://192.168.92.2:8080/memfs/62a4e0c2-b9cb-45f7-8551-0d085291b26b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
 http://192.168.92.2:8080/memfs/42e1eba0-365f-4a99-be37-17347ef82440.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hi507jq47zrx1k1/news_24_bd.png",News24
-http://192.168.92.2:8080/memfs/f88f833b-bc43-4945-9dea-adf944ff39b1.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
 http://192.168.92.2:8080/memfs/accb0e98-e377-416b-afd3-09bbd0e07ae1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://192.168.92.2:8080/memfs/2da7458e-bbe5-44d5-8c36-a2fb3107e067.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6JYc3L/channel-24.png",Channel 24
-http://192.168.92.2:8080/memfs/68d8e6ac-6a47-49b4-8a5e-14edf3a4ffcf.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png",Discovery
-http://192.168.92.2:8080/memfs/7c68a948-4896-4d33-bdfd-0e6ff6855ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://192.168.92.2:8080/memfs/f25344ae-5181-42b3-bcfd-936f6461c45a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
