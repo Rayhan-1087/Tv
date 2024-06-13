@@ -3,10 +3,10 @@
 http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://192.168.92.2:8080/memfs/dd782e65-35ac-40ca-a404-30ff5bc25013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
-http://192.168.92.2:8080/memfs/32472b6e-5044-4965-9640-690ee57a6d33.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8080/memfs/87c6daeb-3962-4c6d-825f-b00053ddb24b.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1 Backup
+http://192.168.92.2:8080/memfs/d3052f64-0c91-4229-b575-846d8284862a.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
 http://192.168.92.2:8080/memfs/6774ea93-8c88-4fea-b096-6ff7a72b62dd.m3u8
 #EXTINF:-1,Sony Ten5
@@ -39,6 +39,8 @@ http://192.168.92.2:8080/memfs/573a6104-65e3-4ca8-8ca8-fd58ac86e6c3.m3u8
 http://192.168.92.2:8080/memfs/40334842-3a91-4fdd-a6f6-bd28873f58b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8080/memfs/7768a2cc-4eed-4a38-8135-15e2d333720f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
+http://192.168.92.2:8080/memfs/32472b6e-5044-4965-9640-690ee57a6d33.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8080/memfs/accbc5da-78df-40be-b411-2dc11212a25e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
