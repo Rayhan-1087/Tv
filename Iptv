@@ -26,7 +26,7 @@ http://192.168.92.2:8080/memfs/8fd7ba6b-cc9c-42b3-bb9e-e8afb61d2e86.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
 http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
-http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
+http://192.168.92.2:8080/memfs/bfce944d-19f6-41a5-924f-0bb92f83e2ab.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
 http://192.168.92.2:8080/memfs/7b48e1d1-f67e-4f1b-b9cc-d033b0103e1e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
