@@ -2,52 +2,52 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
-http://192.168.92.2:8082/TSpors/mpegts
+http://192.168.92.2:8082/TSpors/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
-http://192.168.92.2:8082/R-STAR-SPORTS-1HD/mpegts
+http://192.168.92.2:8082/R-STAR-SPORTS-1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1 Backup
-http://192.168.92.2:8082/Star-Sports-1BDix/mpegts
+http://192.168.92.2:8082/Star-Sports-1BDix/index.m3u8
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png",Star Sports 2
-http://192.168.92.2:8082/Star-Sports2/mpegts
+http://192.168.92.2:8082/Star-Sports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
-http://192.168.92.2:8082/STAR-SPORTS-SE1/mpegts
+http://192.168.92.2:8082/STAR-SPORTS-SE1/index.m3u8
 #EXTINF:-1,Sony Ten5
 http://192.168.92.2:8082/STAR-SPORTS-5/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
-http://192.168.92.2:8082/Sports18/mpegts
+http://192.168.92.2:8082/Sports18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
-http://192.168.92.2:8082/Star-Jalsha/mpegts
+http://192.168.92.2:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8082/ZEE-BANGLA/mpegts
+http://192.168.92.2:8082/ZEE-BANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8082/Nick/mpegts
+http://192.168.92.2:8082/Nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://192.168.92.2:8082/Ten1/mpegts
+http://192.168.92.2:8082/Ten1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
-http://192.168.92.2:8082/Ten2/mpegts
+http://192.168.92.2:8082/Ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
-http://192.168.92.2:8082/Ten3/mpegts
+http://192.168.92.2:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
-http://192.168.92.2:8082/Colorsbangla/mpegts
+http://192.168.92.2:8082/Colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
-http://192.168.92.2:8082/Colorsindia/mpegts
+http://192.168.92.2:8082/Colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:8082/Zee-Cinema/mpegts
+http://192.168.92.2:8082/Zee-Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
-http://192.168.92.2:8082/Sony-MAx/mpegts
+http://192.168.92.2:8082/Sony-MAx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
-http://192.168.92.2:8082/Sonyaath/mpegts
+http://192.168.92.2:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
-http://192.168.92.2:8082/Gazi-Tv/mpegts
+http://192.168.92.2:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://192.168.92.2:8082/Somoy-TV/mpegts
+http://192.168.92.2:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
-http://192.168.92.2:8082/RTV/mpegts
+http://192.168.92.2:8082/RTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
 http://192.168.92.2:8082/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
-http://192.168.92.2:8082/NTV/mpegts
+http://192.168.92.2:8082/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
-http://192.168.92.2:8082/Nat-Geo/mpegts
+http://192.168.92.2:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
 http://192.168.92.2:8082/9XM/index.m3u8
