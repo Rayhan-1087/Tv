@@ -44,7 +44,7 @@ http://192.168.92.2:8082/Somoy-TV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
 http://192.168.92.2:8082/RTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
-http://192.168.92.2:8082/BanglaVision/mpegts
+http://192.168.92.2:8082/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
 http://192.168.92.2:8082/NTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
