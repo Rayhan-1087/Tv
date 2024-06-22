@@ -50,4 +50,4 @@ http://192.168.92.2:8082/NTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://192.168.92.2:8082/Nat-Geo/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
-
+http://192.168.92.2:8082/9XM/index.m3u8
