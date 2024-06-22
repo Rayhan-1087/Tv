@@ -6,50 +6,48 @@ http://192.168.92.2:8082/TSpors/mpegts
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8082/R-STAR-SPORTS-1HD/mpegts
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1 Backup
-http://192.168.92.2:8080/memfs/d3052f64-0c91-4229-b575-846d8284862a.m3u8
+http://192.168.92.2:8082/Star-Sports-1BDix/mpegts
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png",Star Sports 2
-http://192.168.92.2:8080/memfs/c51fc476-e826-4858-ba79-4f2ebded3e80.m3u8
+http://192.168.92.2:8082/Star-Sports2/mpegts
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg",Star Sports Select 1
-http://192.168.92.2:8080/memfs/6774ea93-8c88-4fea-b096-6ff7a72b62dd.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png",Star Sports Select 2
-http://192.168.92.2:8080/memfs/7cacdf23-9aad-48a3-b01d-a8f1ad042ddb.m3u8
+http://192.168.92.2:8082/STAR-SPORTS-SE1/mpegts
 #EXTINF:-1,Sony Ten5
-http://192.168.92.2:8080/memfs/2318c12a-f5f7-433e-9ba4-252bd1cc1e3c.m3u8
+http://192.168.92.2:8082/STAR-SPORTS-5/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
-http://192.168.92.2:8080/memfs/25e4e778-1fea-40b5-8083-b086173ee012.m3u8
+http://192.168.92.2:8082/Sports18/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
-http://192.168.92.2:8080/memfs/d1574ca0-710b-44b4-9d1c-40b7a291d470.m3u8
+http://192.168.92.2:8082/Star-Jalsha/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8080/memfs/bfc8a8f9-027e-4840-bb82-b3cfbdc82351.m3u8
+http://192.168.92.2:8082/ZEE-BANGLA/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8080/memfs/8fd7ba6b-cc9c-42b3-bb9e-e8afb61d2e86.m3u8
+http://192.168.92.2:8082/Nick/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpW6DNy/SONY-TEN-1.jpg",Sony Ten1
-http://192.168.92.2:8080/memfs/06a56896-7ed3-49e5-b467-ef2622e42fd2.m3u8
+http://192.168.92.2:8082/Ten1/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
-http://192.168.92.2:8080/memfs/bfce944d-19f6-41a5-924f-0bb92f83e2ab.m3u8
+http://192.168.92.2:8082/Ten2/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmZ3RhC/sony-ten3.jpg",Sony Ten3
-http://192.168.92.2:8080/memfs/7b48e1d1-f67e-4f1b-b9cc-d033b0103e1e.m3u8
+http://192.168.92.2:8082/Ten3/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
-http://192.168.92.2:8080/memfs/a6ddcb5a-e73e-4ce8-bbeb-df54bb62314e.m3u8
+http://192.168.92.2:8082/Colorsbangla/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
-http://192.168.92.2:8080/memfs/d2f2fd1a-ebff-4c3c-b056-29da89763f51.m3u8
+http://192.168.92.2:8082/Colorsindia/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:8080/memfs/573a6104-65e3-4ca8-8ca8-fd58ac86e6c3.m3u8
+http://192.168.92.2:8082/Zee-Cinema/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAx
-http://192.168.92.2:8080/memfs/40334842-3a91-4fdd-a6f6-bd28873f58b7.m3u8
+http://192.168.92.2:8082/Sony-MAx/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
-http://192.168.92.2:8080/memfs/7768a2cc-4eed-4a38-8135-15e2d333720f.m3u8
+http://192.168.92.2:8082/Sonyaath/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
-http://192.168.92.2:8080/memfs/32472b6e-5044-4965-9640-690ee57a6d33.m3u8
+http://192.168.92.2:8082/Gazi-Tv/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://192.168.92.2:8080/memfs/accbc5da-78df-40be-b411-2dc11212a25e.m3u8
+http://192.168.92.2:8082/Somoy-TV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQzb98f/rtv.png",RTV
-http://192.168.92.2:8080/memfs/62a4e0c2-b9cb-45f7-8551-0d085291b26b.m3u8
+http://192.168.92.2:8082/RTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
-http://192.168.92.2:8080/memfs/42e1eba0-365f-4a99-be37-17347ef82440.m3u8
+http://192.168.92.2:8082/BanglaVision/mpegts
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/05/0505e5a045510374e09967d0cb8729ad.jpeg",NTV
-http://192.168.92.2:8080/memfs/accb0e98-e377-416b-afd3-09bbd0e07ae1.m3u8
+http://192.168.92.2:8082/NTV/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
-http://192.168.92.2:8080/memfs/f25344ae-5181-42b3-bcfd-936f6461c45a.m3u8
+http://192.168.92.2:8082/Nat-Geo/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
-http://192.168.92.2:8080/memfs/4d7d4b20-76bf-4da9-ab2e-d1fbf4b60fb5.m3u8
+
