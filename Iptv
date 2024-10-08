@@ -6,7 +6,7 @@ http://192.168.92.2:8082/RomsTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
 http://192.168.92.2:8082/INDE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://192.168.92.2:8082/JamunaTV/index.m3u8
+http://192.168.92.2:8082/Jamuna/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
