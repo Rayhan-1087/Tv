@@ -4,23 +4,25 @@ http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
 http://192.168.92.2:8082/RomsTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://192.168.92.2:8082/RomsTV/index.m3u8
+http://192.168.92.2:8082/INDE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
 http://192.168.92.2:8082/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
+http://192.168.92.2:8082/Mas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
+http://192.168.92.2:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
+http://192.168.92.2:8082/ZeeBan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
+http://192.168.92.2:8082/Nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:8082/Sports18/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
 http://192.168.92.2:8082/R-STAR-SPORTS-1HD/index.m3u8
 #EXTINF:-1,Sony Ten5
 http://192.168.92.2:8082/STAR-SPORTS-5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
-http://192.168.92.2:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8082/ZEE-BANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8082/Nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTP0qb7/bangla-vision.png",Bangla Vision
 http://192.168.92.2:8082/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg", GTV
