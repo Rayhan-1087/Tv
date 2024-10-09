@@ -2,21 +2,21 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSdNHt5/IMG-20190313-073500.jpg",Md Raihan C.E.O--01975321087
 http://192.168.92.2:8080/memfs/2cc0a337-4474-4210-a220-b45773afe1e4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",T SPORTS
-http://192.168.92.2:8082/RomsTV/mpegts
+http://192.168.92.2:8082/RomsTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3370BZ/indipendent.png",IndependentTV
-http://192.168.92.2:8082/INDE/mpegts
+http://192.168.92.2:8082/INDE/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://192.168.92.2:8082/Jamuna/mpegts
+http://192.168.92.2:8082/Jamuna/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
-http://192.168.92.2:8082/Somoy-TV/mpegts
+http://192.168.92.2:8082/Somoy-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
-http://192.168.92.2:8082/Mas/mpegts
+http://192.168.92.2:8082/Mas/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
-http://192.168.92.2:8082/Star-Jalsha/mpegts
+http://192.168.92.2:8082/Star-Jalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8082/ZeeBan/mpegts
+http://192.168.92.2:8082/ZeeBan/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
-http://192.168.92.2:8082/Nick/mpegts
+http://192.168.92.2:8082/Nick/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:8082/Sports18/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
