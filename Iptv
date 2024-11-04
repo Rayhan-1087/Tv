@@ -7,7 +7,7 @@ http://192.168.92.2:8082/RomsTV/video.m3u8
 http://192.168.92.2:8082/INDE/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
 http://192.168.92.2:8082/Jamuna/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
 http://192.168.92.2:8082/Mas/video.m3u8
@@ -57,5 +57,4 @@ http://192.168.92.2:8082/Zee-Cinema/index.m3u8
 http://192.168.92.2:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://192.168.92.2:8082/Nat-Geo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
