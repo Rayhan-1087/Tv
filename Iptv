@@ -61,6 +61,8 @@ http://192.168.92.2:8082/Bein-Ex/index.m3u8
 http://192.168.92.2:8082/SonyTen1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.92.2:8082/SonyTen2/index.m3u8
+#EXTINF:-1, Star Gold
+http://192.168.92.2:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
 http://192.168.92.2:8082/ZeChinama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
