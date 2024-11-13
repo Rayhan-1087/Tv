@@ -63,6 +63,8 @@ http://192.168.92.2:8082/SonyTen1/index.m3u8
 http://192.168.92.2:8082/SonyTen2/index.m3u8
 #EXTINF:-1, Ten Sports
 http://192.168.92.2:8082/TenSports/index.m3u8
+#EXTINF:-1, S Football
+http://192.168.92.2:8082/SfootBall/index.m3u8
 #EXTINF:-1, Star Gold
 http://192.168.92.2:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
