@@ -77,10 +77,9 @@ http://192.168.92.2:8082/Sony-MAx/index.m3u8
 http://192.168.92.2:8082/9XM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcDMsVQ/sangeet-bangla.jpg",Sangeet Bangla
 http://192.168.92.2:8082/SBangla/index.m3u8
-#EXTINF:-1, Star Movies
-http://192.168.92.2:8082/StarMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png",Discovery
 http://192.168.92.2:8082/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
 http://192.168.92.2:8082/Natgeo/index.m3u8
-
+#EXTINF:-1, Star Movies
+http://192.168.92.2:8082/StarMovies/index.m3u8
