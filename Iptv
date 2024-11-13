@@ -37,12 +37,12 @@ http://192.168.92.2:8082/GaanBng/index.m3u8
 http://192.168.92.2:8082/Nick-Hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
 http://192.168.92.2:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
-http://192.168.92.2:8082/ZeeBan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SZf4mm/Colors-Bangla-HD-TV-white.png",ColorsBangla
 http://192.168.92.2:8082/Clors-Bng/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN1NY41/colors.jpg",Colors
 http://192.168.92.2:8082/Colorsindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
+http://192.168.92.2:8082/ZeeBan/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAX
