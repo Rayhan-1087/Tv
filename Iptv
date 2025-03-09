@@ -19,6 +19,8 @@ http://192.168.92.2:8082/Masranga/index.m3u8
 http://192.168.92.2:8082/Boishakhi/index.m3u8
 #EXTINF:-1, MYTV
 http://192.168.92.2:8082/MyTv/index.m3u8
+#EXTINF:-1, PaceTV
+http://192.168.92.2:8082/Peace-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
 http://192.168.92.2:8082/Nick-Hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwQWWYL/Star-Jalsha.jpg",Star jalsha
