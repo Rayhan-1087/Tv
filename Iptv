@@ -44,7 +44,7 @@ http://192.168.92.2:8082/SonyTen2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
 http://192.168.92.2:8082/Ben1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:8082/ZeChinama/index.m3u8
+http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8082/Sony8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
