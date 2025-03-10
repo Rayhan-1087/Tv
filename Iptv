@@ -7,14 +7,10 @@ http://192.168.92.2:8082/Sports/index.m3u8
 http://192.168.92.2:8082/RomsTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport 2
 http://192.168.92.2:8082/Tsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTb0wQw/ntv.png",NTV
-http://192.168.92.2:8082/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
 http://192.168.92.2:8082/Jamuna/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LpH2BJC/maasranga-tv-live.png",Maasranga
-http://192.168.92.2:8082/Masranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://192.168.92.2:8082/Boishakhi/index.m3u8
 #EXTINF:-1, MYTV
@@ -30,7 +26,7 @@ http://192.168.92.2:8082/Colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMYjm9H/zee-bangla.png",ZeeBangla
 http://192.168.92.2:8082/ZeeBan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAX
-http://192.168.92.2:8082/Nick/index.m3u8
+http://192.168.92.2:8082/Sony-MAx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:8082/Sports-18-Bdix/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
