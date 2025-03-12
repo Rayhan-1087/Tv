@@ -13,9 +13,9 @@ http://192.168.92.2:8082/Jamuna/index.m3u8
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n31BL7G/boishakhi-tv.png",Boishakhi
 http://192.168.92.2:8082/Boishakhi/index.m3u8
-#EXTINF:-1, MYTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1200px-My_TV_Logo.svg.png",MY TV
 http://192.168.92.2:8082/MyTv/index.m3u8
-#EXTINF:-1, PaceTV
+#EXTINF:-1 tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png",PEACE TV
 http://192.168.92.2:8082/Peace-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSH6yMt/nickelodeon.png",Nick
 http://192.168.92.2:8082/Nick-Hd/index.m3u8
@@ -27,6 +27,14 @@ http://192.168.92.2:8082/Colorsindia/index.m3u8
 http://192.168.92.2:8082/ZeeBan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48xJbRg/set-max.jpg",Sony MAX
 http://192.168.92.2:8082/Sony-MAx/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
+http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
+http://192.168.92.2:8082/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="SPORTS",TEN SPORTS HD
+http://192.168.92.2:8082/TenSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
+http://192.168.92.2:8082/Ben1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b1GjZB/dummy.jpg",Soprts 18
 http://192.168.92.2:8082/Sports-18-Bdix/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
@@ -41,14 +49,8 @@ http://192.168.92.2:8082/SonyTen5/index.m3u8
 http://192.168.92.2:8082/SonyTen1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2P8rmCz/sony-ten2.png",Sony Ten2
 http://192.168.92.2:8082/SonyTen2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
-http://192.168.92.2:8082/Ben1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QfCX7bV/zee-cinema-hd.png",Zee CinemaHd
-http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BP0KHX4/SonyAath.jpg",SonyAath
 http://192.168.92.2:8082/Sony8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
-http://192.168.92.2:8082/9XM/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png",Discovery
 http://192.168.92.2:8082/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jR4YgG2/national-geographic.jpg",National-geographic
