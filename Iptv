@@ -35,6 +35,8 @@ http://192.168.92.2:8082/Sony-MAx/index.m3u8
 http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8LLZgP/9x-jalwa.png",9xm
 http://192.168.92.2:8082/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.92.2:82/uploads/tv_image/sm/fifa.jpg",FIFA
+http://192.168.92.2:8080/memfs/4d7d4b20-76bf-4da9-ab2e-d1fbf4b60fb5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="SPORTS",TEN SPORTS HD
 http://192.168.92.2:8082/TenSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2vKfimU.png",BenSports1
