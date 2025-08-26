@@ -6,7 +6,7 @@ http://192.168.92.2:8082/RomsTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7j10K6/t-sports-hd.jpg",Tsport 2
 http://192.168.92.2:8082/Tsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCbjx/JAMUNA-TV.png",JAMUNA-TV
-http://192.168.92.2:8080/memfs/f25344ae-5181-42b3-bcfd-936f6461c45a.m3u8
+http://192.168.92.2:8082/Jamuna-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
 #EXTINF:-1, CH24
