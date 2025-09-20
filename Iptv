@@ -9,6 +9,8 @@ http://192.168.92.2:8082/Tsport2/index.m3u8
 http://192.168.92.2:8082/Jamuna-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvJjgFv/shomoy-tv.png",SomoyTv
 http://192.168.92.2:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yd2Y8w9/gtv.jpg",GTV
+http://192.168.92.2:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1, CH24
 http://192.168.92.2:8082/NTV/index.m3u8
 #EXTINF:-1, Independent
