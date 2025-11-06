@@ -39,6 +39,8 @@ http://192.168.92.2:8082/Sony-MAx/index.m3u8
 http://192.168.92.2:8082/ZBng-Chinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.92.2:82/uploads/tv_image/sm/live-sports.png",Sport
 http://192.168.92.2:8082/Sports/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.92.2:82/uploads/tv_image/sm/ptv.jpg",PTV
+http://192.168.92.2:8082/PTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="SPORTS",TEN SPORTS HD
 http://192.168.92.2:8082/TenSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3i0bJdQ",Star Sports 1
